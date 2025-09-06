@@ -2,10 +2,8 @@
 # Generated directories
 /chroma_db
 /.cache
-/chunked_output
 /__pycache__
 /venv
-/output
 
 # Input data (may contain sensitive documents)
 /FileFolder

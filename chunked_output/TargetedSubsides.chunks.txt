@@ -1,0 +1,331 @@
+CHUNKED DOCUMENT: TargetedSubsides.pdf.json
+================================================================================
+
+CHUNK 1
+----------------------------------------
+Characters: 753
+Words: 113
+Type: CompositeElement
+
+20
+
+Targeted subsidies to ease rakyat’s burden
+
+THEDGE MALAYSIA OCTOBER 2, 2023
+
+<€
+
+Dr. Yeah Kim Leng
+
+Many governments all over the world have their own social protection programmes to alleviate hardships faced by their citizens, notably those from the lower and middle- income groups.Some examples of these social protection programmes are direct cash transfers, price control ceilings for essential goods, subsidies for fuel and electricity,and health and education sectors.
+
+In Malaysia, subsidies have been part and parcel of the economy for many years, so much so the rakyat expects the government to continue providing them.The rakyat have become accustomed to subsidised services and products.It’s as if subsidy has become an inalienable right.
+
+================================================================================
+
+CHUNK 2
+----------------------------------------
+Characters: 973
+Words: 158
+Type: CompositeElement
+
+As the government grapples with getting its finances right, trying to balance its revenue and expenditure, there have been calls for the current subsidy system to be reformed. One of the key reforms is to move away from the current costly blanket mechanism that benefits everyone, including high-income earners who are certainly not in need of any assistance, to a more etd one which focuses on the needs of the low and middle-income groups.
+
+This was indicated by Prime Minister Datuk Seri Anwar Ibrahim during the mid-term review of the 12th Malaysia Plan. Further details are expected to be announced during the Budget 2024 presentation on 13 October 2023.
+
+Here are some questions and answers with Dr.Yeah Kim Leng, Professor of Economics and Director of Economic Studies Programme at Jeffrey Cheah Institute on Southeast Asia at Sunway University and Member of the Advisory Committee to Finance Minister (ACFIN) to provide a better understanding of the issues at hand:
+
+================================================================================
+
+CHUNK 3
+----------------------------------------
+Characters: 783
+Words: 134
+Type: CompositeElement
+
+How big was the subsidy bill in 2022 and what is the projected figure for 2023?
+
+In Malaysia, the government has long subsidised basic goods and services.These subsidies are intended to lessen the burden on vulnerable groups.
+
+Figure 1: Selected Development Expenditure Components versus Debt Service Charges RM billion
+
+(B Health, education, transport & housing Debt service charges 2 0 ® 8 31 g R 22, 17.7 20.0 _ | = | | | | 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 Ratio: 0.59 0.60 0.85 0.98 1.21 1.59 1.63 1.73 1.47 1.15 1.30 1.41 1.22 1.26 (debt service charge 0.62 to spending)
+
+Among other things, they include subsidies for rice, flour, cooking oil, chicken and eggs, electricity, petrol, diesel, cooking gas (LPG), healthcare and education.
+
+================================================================================
+
+CHUNK 4
+----------------------------------------
+Characters: 954
+Words: 162
+Type: CompositeElement
+
+Subsidies do not actually make the cost of the items cheaper.What happens is the user only pays a fraction of the cost to purchase those items, while the rest is borne by the government. The portion that is borne by the government is what we refer to as subsidies.
+
+Herein lies the problem. Our subsidy bill, which includes social assistance, has been growing over the years. If you can imagine, in 2008, our subsidy bill stood at RM35.2 billion. As of 2022, this had grown to RM67.4 billion. This is almost a two-fold increase.
+
+Subsidies in 2022 accounted for nearly 4% of Malaysia’s gross domestic product (GDP) - the value of goods and services produced - and made up approximately 23% of the government’s operating expenditure. Basically, almost a quarter of all government’s operating expenditure is used solely to provide discounts on some of the items the rakyat buys, rather than on things that may potentially be more productive for the nation.
+
+================================================================================
+
+CHUNK 5
+----------------------------------------
+Characters: 638
+Words: 96
+Type: CompositeElement
+
+We could also be using this on development expenditure, which is crucial for nation- building in economic and social development initiatives such as education, healthcare, social housing and public transport.
+
+From another perspective, if we consider that the government’s revenue in 2022 was RM234 billion, subsidies consumed almost one-third of that.This means, for every ringgit that the government collected, 30 sen went to subsidies.
+
+The government has forecasted RM58.6 billion in subsidy payments for 2023. Despite being lower than the amount allocated for 2022, it is still a huge number. Needless to say, this isn’t sustainable.
+
+================================================================================
+
+CHUNK 6
+----------------------------------------
+Characters: 842
+Words: 141
+Type: CompositeElement
+
+Why can’t the 2 overnment continue with what they have been doing for so many years and why is it no longer sustainable?
+
+Let’s pause and take a hard look at our current financial position.The fact of the matter is Malaysia has been spending more than it earns in all but five years since 1970.That’s 48 years of deficits. Running a deficit budget means the government has to borrow. Hence, as at end 2022, the total government debt is RM1.08 trillion. And that’s excluding government guarantees provided to numerous government-owned entities, which if included would push the total government liabilities to almost RM1.5 trillion.
+
+How big is RM1.5 trillion? The amount is equivalent to the size of the Malaysian economy. Or divide that by Malaysia’s population of 32 million, that’s equivalent to RM46,875 debt for each and every one of us.
+
+================================================================================
+
+CHUNK 7
+----------------------------------------
+Characters: 578
+Words: 94
+Type: CompositeElement
+
+Having a huge debt isa burden to the government’s financial position.In 2022, the cost to service government debt amounted to RM41.3 billion and exceeds what is spent on health, education, transport and housing put together. Moreover, nearly 30 percent of the interest payments ends up in foreign hands.
+
+RM41.3 billion is also equivalent to 20% of tax revenue. In other words, for every ringgit that the government collects, 20 sen goes towards paying the interest on the debt alone. Paying interest is not productive as it doesn’t generate any spillover impact to the economy.
+
+================================================================================
+
+CHUNK 8
+----------------------------------------
+Characters: 921
+Words: 152
+Type: CompositeElement
+
+What are the big items 3 that the government subsidises?
+
+The government subsidises many goods and services. Our rice, which is being sold at RM2.60 per kg is among the lowest in Southeast Asia.
+
+Source: Bank Negara Malaysia
+
+Avisit to the hospital will cost only RM1. Primary and secondary education are free for citizens. Studying a Bachelor in Medicine and Bachelor in Surgery (MBBS) degree in University Malaya will only cost RM 14,990 for the whole programme - among the lowest in the world, although it should be noted that this too is partially subsidised by the government.
+
+from fuel and electricity subsidies.Together, these two items accounted for RM60.6 billion, or over 90%, of the total subsidy bill. Our subsidies for fuel (diesel, petrol and cooking gas) alone came up to about RM50.8 billion (or 77%), while our electricity subsidy amounted to RM9.8 billion (or 14.8%).What does this mean for the rakyat?
+
+================================================================================
+
+CHUNK 9
+----------------------------------------
+Characters: 814
+Words: 130
+Type: CompositeElement
+
+If we extend this concept further into the realm of education, the government has also provided subsidy - although it is not called as such, in the form of Rancangan Makanan Tambahan (RMT), Bantuan Makanan Asrama, Bantuan Makanan Prasekolah, Skim Pinjaman Buku Teks, Bantuan Awal Persekolahan, Biasiswa Kecil Persekutuan to our children.
+
+These are just some examples. The actual list of subsidised goods and services would be even longer. However, these subsidies don’t account for the majority of our overall subsidy bill.
+
+The biggest chunk of our subsidy expenditure comes
+
+Put it this way: with RM60.6 billion, the government could potentially have built the equivalent of 700 schools or 120 hospitals per year.Try to imagine what a difference that would have to the country - especially those in rural areas.
+
+================================================================================
+
+CHUNK 10
+----------------------------------------
+Characters: 372
+Words: 58
+Type: CompositeElement
+
+What is wrong with 4 the current blanket subsidy mechanism? The problem with some of the subsidies in Malaysia, such as our fuel subsidy, is that they are blanket subsidies. This means everyone, regardless of socioeconomic background, benefits from these subsidies. The problem is blanket subsidies benefits those users who consume the most. For example, it was previously
+
+================================================================================
+
+CHUNK 11
+----------------------------------------
+Characters: 978
+Words: 171
+Type: CompositeElement
+
+Facts & Figures
+
+The RM60.6 billion spent on fuel and electricity subsidies is equivalent to the cost of building
+
+120 hospitals
+
+700
+
+schools
+
+0 ¥ 4~
+
+THEDGE MALAYSIA OCTOBER 2, 2023
+
+21
+
+disclosed in Parliament that the T20s are getting more than their fair share of the fuel subsidies. They only make up 20% of population but they enjoy 35% of the fuel subsidies.
+
+To understand why,a more well-off family is more likely to have two to three vehicles or more and therefore use more fuel,as opposed to a less well- off family, who will probably only own one motorcycle.
+
+For example, RON 95 petrol costs RM2.05 per litre at the petrol stations, with the government subsidising about RM1.50 per litre of the actual cost.This simply means a motorcyclist or a delivery rider, from the lower income group, who consumes 100 litres a month will only get RM150 in subsidy while a well- to-do family with two to four cars consuming 1000 litres a month gets to enjoy RM1500 in subsidy.
+
+================================================================================
+
+CHUNK 12
+----------------------------------------
+Characters: 549
+Words: 94
+Type: CompositeElement
+
+So, it begs the question, who is actually benefitting from these subsidies? And which one of the two is more deserving of the government’s support?
+
+Then there’s the problem of unwanted leakages. How often do we see on social media examples of foreign cars coming into Malaysia to fill up on RON 95? This is because the petrol price in Malaysia is generally much cheaper than our neighbours. Therefore, not only are our subsidies inefficient, but we are also subsidising foreigners. We also see in the news cases of diesel and cooking gas smuggling.
+
+================================================================================
+
+CHUNK 13
+----------------------------------------
+Characters: 936
+Words: 145
+Type: CompositeElement
+
+This problem isn’t just confined to fuel subsidies. Let’s take the example of electricity.Since prices are kept artificially low, we tend to overconsume or waste electricity - for example, by keeping our aircons on all-day long.There is also no incentive for firms to invest in energy- efficient equipment. This is probably not the path we want to go down - considering fuel used to generate our electricity is increasingly being imported as well as recent concerns over global warming.
+
+For electricity, the government has already started to implement targeted subsidies to heavy users whereby domestic households who use more than 1,500 kWh amonth,will be imposed a 10 sen per kWh surcharge.
+
+What are the alternatives to blanket subsidies to assist vulnerable groups? As mentioned earlier, blanket subsidies benefit everyone regardless of socioeconomic status.There are many more efficient ways to alleviate the burden of the rakyat.
+
+================================================================================
+
+CHUNK 14
+----------------------------------------
+Characters: 969
+Words: 163
+Type: CompositeElement
+
+One good example is cash transfers. When we remove unproductive blanket subsidies, there are significant savings to the government’s coffers. A portion of it can be returned to the rakyat in the form of cash transfers. And we empower the rakyat to use it according to their needs, rather than confine it to the selected products and items that the government has been subsidising.
+
+The other way to achieve this is through targeted subsidies, whereby only certain vulnerable groups are allowed to continue buying at a subsidised price.A good example that we can see is the public transport discount that we provide for senior citizens.
+
+However, the problem with this is that we confine the subsidy only to that product/ service rather than empower the rakyat to spend on what they need.To use the previous example, a senior citizen who does not use public transport will not be able to enjoy the subsidy. But this is still much better than providing blanket subsidies.
+
+================================================================================
+
+CHUNK 15
+----------------------------------------
+Characters: 746
+Words: 121
+Type: CompositeElement
+
+Let’s also not forget that in order to enforce targeted subsidies effectively, systems and supporting infrastructure will need to be put in place to ensure there is no abuse; these systems in turn will require maintenance and periodic upgrading. In short, enforcing targeted subsidies can have significant implementation costs.
+
+Does this mean that 6 the government will remove all sul idies? I can’t speak for the government, but that said, I don’t think it needs to remove all subsidies.
+
+However, given the current economic situation of the country, reform of subsidies is something that urgently needs to be done. I believe that subsidy reform should focus more on items such as petrol, diesel, cooking gas and electricity as they account for
+
+================================================================================
+
+CHUNK 16
+----------------------------------------
+Characters: 319
+Words: 55
+Type: CompositeElement
+
+Figure 2: Petrol Prices vs Other Countries
+
+Figure 2: Petrol Prices vs Other Countries RM/Litre (as of September 2023) Brunei 1.84 Malaysia Saudi Arabia LU 291 4 Indonesia 4.51 Vietnam 491 Myanmar Cambodia 597 Philippines Thailand Laos 6.28 Singapore 973 Source: www.globalpetrolprices.com
+
+t 4 i . e er —— — \ NN — - E
+
+================================================================================
+
+CHUNK 17
+----------------------------------------
+Characters: 867
+Words: 147
+Type: CompositeElement
+
+Figure 3: Energy Subsidies vs Other Economic & Social Initiatives under Development Expenditure in 2022
+
+RM Billion
+
+Fuel & Electrity 60.6 subsidies Education 100 Social & Community Services Health d Agriculture & Rural Development Housing 17 Source: Bank Negara Malaysia
+
+more than 90% of the total subsidies.
+
+Let’s see how this would apply in the case of fuel subsidies. A good way to manage the impact of a possible fuel subsidy reform would be to maintain the Automatic Pricing Mechanism (APM), which has been in place since 1983.The APM helps to set a ceiling price at the petrol pumps regardless of the location, whether it be in Tanjung Malim or in Bangsar.
+
+Therefore, should we proceed with fuel subsidy reform, the APM can be used to manage petrol pump prices in the event of global oil price volatility. This is essentially what we call a “managed float”.
+
+================================================================================
+
+CHUNK 18
+----------------------------------------
+Characters: 884
+Words: 146
+Type: CompositeElement
+
+How much savings is expected to be made if we move away from blanket subsidies? How will the rakyat, notably the low and middle- income benefit from this measure?
+
+Let’s put this into perspective. In 2022, we spent six times more on blanket fuel and electricity subsidies (RM60.6 billion) than on education (RM10 billion) and a whopping 14 times more than on health (RM4.4 billion).
+
+In fact, if you total up what we spent on economic and social initiatives, which not only includes education and health but also other initiatives
+
+such as social and community services, agriculture and rural development,and housing (this works out to RM23.6 billion), it would still be less than half of what we spent on our fuel and electricity subsidies.
+
+Needless to say, the rakyat would benefit more if our fuel and electricity subsidies were diverted to other economic and social expenditures.
+
+================================================================================
+
+CHUNK 19
+----------------------------------------
+Characters: 854
+Words: 145
+Type: CompositeElement
+
+Wouldn’t removin, subsidies on petrol, diesel and electricity cause inflation and the prices of many other goods to rise? On the impact on inflation, yes, as an economist, I would not deny that reforming the subsidy system will induce inflation. Many scholarly articles will attest to that.
+
+However, there are ways to manage the impact of inflation caused by subsidy reform. One of the ways is what I mentioned earlier, which is to use a managed float pricing mechanism (or APM) to standardise our fuel prices.
+
+Secondly, enforcement needs to be ramped up.The government already sets ceiling prices of certain essential goods and services. We need to ensure that these ceiling prices are adhered to. There needs to be a way for the public to play a part in this - for instance, by helping to report unrealistic price hikes or smuggling activities in the
+
+================================================================================
+
+CHUNK 20
+----------------------------------------
+Characters: 646
+Words: 104
+Type: CompositeElement
+
+case of diesel and cooking gas.
+
+More importantly, as has been rightly pointed out by the Prime Minister on many occasions in the past, we must find a way to cushion any inflationary impact especially on vulnerable groups.This move is in line with the MADANI framework, specifically under the Compassion core value.
+
+Therefore, as I mentioned earlier,a mechanism should be introduced to enable the vulnerable sections of our society, such as children and the elderly, to continue to be given some form of support through a better social assistance scheme, whether in the form of direct cash transfers or subsidies to access government facilities.
+
+================================================================================
+
+CHUNK 21
+----------------------------------------
+Characters: 572
+Words: 99
+Type: CompositeElement
+
+The intent is always about easing the rakyat’s hardships, and more importantly to lift them out of poverty and at the same time providing them with security while still maintaining their dignity.At the end of the day, the bigger agenda is to help people to transform their lives by creating a staircase of opportunities, to enable them to unlock their potential.
+
+Hence, as a responsible citizen, it is incumbent upon us to work with the government to find a way to restore the economy to a stronger footing in order to leave behind a prosperous Malaysia for our children.
+
+================================================================================
+

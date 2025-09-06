@@ -1,0 +1,353 @@
+CHUNKED DOCUMENT: MinistryOfFinance.pdf.json
+================================================================================
+
+CHUNK 1
+----------------------------------------
+Characters: 247
+Words: 39
+Type: CompositeElement
+
+MINISTRY OF FINANCE Charting Opportunities in Malaysia Amir Hamzah Azizan Finance Minister II, Malaysia 24 October 2024
+
+Malaysia is a prolific reformer with a track record of robust growth (Average real GDP 2011 – 2023: 4.3%; A-rated peers: 2.9%)
+
+================================================================================
+
+CHUNK 2
+----------------------------------------
+Characters: 438
+Words: 81
+Type: CompositeElement
+
+1960s – 1980s:
+
+1980s – 2010s:
+
+2010s – Today:
+
+Export by product Economic activity Export by product Economic activity Export by product (% share of total) (% of total) (% share of total) (% of total) (% share of total) Const. 4% Mining Commodities 4% 14% Commodities 4% 15% Commodities 6% Agri. 29% 7% 9% 27% E&E 23% 6% 6% E&E 80% 45% 31% 55% 59% Non-E&Es 59% Non-E&Es 5% E&E 40% 15% Non-E&Es
+
+Economic (%
+
+Manuf.
+
+13%
+
+42%
+
+Services
+
+2
+
+================================================================================
+
+CHUNK 3
+----------------------------------------
+Characters: 465
+Words: 65
+Type: CompositeElement
+
+Advancing the reform agenda
+
+Real GDP growth (%yoy) 8.9% 2022 4.8%- 5.3% 2024e 3.3% 2021 3.6% 2023 -5.5% 2020 Source: Ministry of Finance Malaysia 4.5%- 5.5% 2025f
+
+COVID-19 crisis
+
+Policy buffers used to support economic recovery
+
+Pandemic unearthed possible vulnerabilities
+
+New economic realities post COVID-19
+
+3
+
+Reforms
+
+Rebuild policy buffers
+
+Reprioritise spending to enhance fiscal sustainability and impact
+
+Restructure economy to align with global trends
+
+================================================================================
+
+CHUNK 4
+----------------------------------------
+Characters: 815
+Words: 108
+Type: CompositeElement
+
+The MADANI Economic framework will restructure the economy and raise Malaysia’s all-round prospects within the next 10 years
+
+12MP
+
+12th Malaysia Plan
+
+Attract quality investments in new growth areas
+
+E&E
+
+Data centres
+
+Industrial parks
+
+Investment implementation and facilitation (TRACK and IMFC)
+
+NIMP
+
+New Industrial Master Plan
+
+NSS
+
+NETR
+
+FRA
+
+(wer)
+
+)
+
+National Energy Transition Roadmap Public Finance and Fiscal Responsibility Act National Semiconductor Strategy
+
+Advance green growth to support transition to a low-carbon economy
+
+Build a prosperous, inclusive society via more targeted policies
+
+Strengthen fiscal sustainability
+
+Regulatory reforms
+
+Equity market reforms
+
+Carbon Capture Utility Storage
+
+Labour market reforms
+
+Social protection policies
+
+Public Finance and Fiscal Responsibility Act 2023
+
+================================================================================
+
+CHUNK 5
+----------------------------------------
+Characters: 412
+Words: 61
+Type: CompositeElement
+
+Subsidy rationalisation
+
+E-invoicing
+
+MALAYSIA ADA [
+
+30th largest economy
+
+2023: 37th
+
+Competitive economy
+
+(12th in IMD index) 2024: 34th
+
+45% labour share of income
+
+2022: 32.3%
+
+Improved human development
+
+(25th in HD index)
+
+2023: 63rd
+
+Fiscal deficit to -3% of GDP
+
+2024: -4.3%
+
+Reducing corruption
+
+(25th in Corruption Perception Index) 2023: 57th
+
+60% female labour force participation rate
+
+2023: 56%
+
+4
+
+================================================================================
+
+CHUNK 6
+----------------------------------------
+Characters: 703
+Words: 99
+Type: CompositeElement
+
+Forthcoming investments raising Malaysia’s economic complexity
+
+Public Private Investments Investments Transportation (completion rate) E&E Highways Pan-Borneo Sarawak (99%) Rail transit LRT 3 (97%) RM120b by 2025 RM495b Pan-Borneo Sabah 1A (79%) RTS Link (83%) ECRL (73%) in GDP growth in export earnings Renewable Energy (completion rate) Data centres Solar energy Cypark Solar Plant (100%) Hydroelectric Baleh Dam (43%) >RM114 b Investments announced 280MW Live 159MW Under Construction 766MW Committed Batang Ai Solar Farm (35%) Nenggiri Hydro (30%) Connectivity (completion rate) Green/Hi-tech Industrial Parks MyDIGITAL 5G (82%) Kulim Hi-Tech Park Bayan Lepas FIZ Sedenak Tech Park Batu Kawan IP 7
+
+================================================================================
+
+CHUNK 7
+----------------------------------------
+Characters: 898
+Words: 132
+Type: CompositeElement
+
+Malaysia advancing to become a leading global semiconductor manufacturing powerhouse
+
+Snapshot of Malaysia’s semiconductor industry 6th FRONT-END Chip Design Chip Manufacturing BACK-END largest semiconductor exporter (7.8% of global market share) Assembly, testing, and packaging Application in electronics assembly SUPPORT ECOSYSTEM Materials, equipment, software designs, core IP
+
+Targets under the National Semiconductor Strategy
+
+) t Modernise OSAT & Targeted n e r r u C ( 1 e s a h P 1Building on our foundation move towards advanced packaging Grow fabricators & attract FDI Develop local chip design champions RM500b worth of investments Ongoing investments:
+
+2 e s a h P
+
+2 Moving to the frontier Advanced logic & memory chip manufacturing Deeper integration with advanced fab companies Targeted 100 10 semiconductor- local companies in related local design and companies advanced packaging
+
+================================================================================
+
+CHUNK 8
+----------------------------------------
+Characters: 306
+Words: 49
+Type: CompositeElement
+
+3 e s a h P
+
+Innovating 3 at the frontier
+
+World-class Malaysian firms in design, advanced packaging and manufacturing equipment
+
+Targeting Global Tech Giants
+
+as buyers
+
+%
+
+¥ HUAWE
+
+m
+
+8
+
+Tapping domestic liquidity to boost further domestic investments in targeted areas via GLICs and GLCs through GEAR-uP
+
+================================================================================
+
+CHUNK 9
+----------------------------------------
+Characters: 937
+Words: 110
+Type: CompositeElement
+
+RM120b in GEAR-uP AUM: RM1.8T Raise competitiveness and productivity Key areas: energy transition, digitalisation, aviation, semiconductor investments over 5 years RM440b Nurturing private markets Key areas: catalytic funds, food security, digital economy, energy transition, advanced manufacturing Other pledges beyond capital investments of public market investments Modernising local industries Key areas: automation, green transition, smart agriculture, enhancing Wage alignment and compensation financial security and literacy Fairer gender Advancing a prosperous aging society Key areas: sustainable healthcare, energy transition, social protection, pension reforms, representation Reskilling and upskilling Driving social-based Islamic finance Key areas: Social protection, Islamic finance Coordinated CSR initiatives Elevate Malaysian pharmaceuticals Key areas: local biopharmaceutical products, transition ecosystem for veterans
+
+================================================================================
+
+CHUNK 10
+----------------------------------------
+Characters: 887
+Words: 115
+Type: CompositeElement
+
+9
+
+Reforms are well underway, further bolstering fiscal sustainability
+
+COMPLETED UPCOMING Sales tax Services tax E-invoicing Revenue on imported LVGs sold online Higher rate & larger coverage For large companies Medium-Term Revenue enhancements Capital gains tax Excise duties Strategy (MTRS) Minimise revenue leakages and on foreign-sourced income Higher for chewing tobacco & broaden tax base and unlisted shares sugared beverages Expenditure Subsidy Optimisation Measures Expenditure optimisation Electricity and water tariff revision rationalisation Rationalisation of subsidies for diesel and fresh food (chicken) Subsidy rationalisation for East Malaysia (diesel), fishermen (diesel) and RON95, streamlining and consolidation of agencies Governance reforms Public Finance & Fiscal Responsibility Act 2023 National Anti- 7 Corruption Strategy, 2024- 2028 Government Procurement Act
+
+================================================================================
+
+CHUNK 11
+----------------------------------------
+Characters: 847
+Words: 107
+Type: CompositeElement
+
+10
+
+Budget 2025 initiatives bring us closer to realising MADANI targets
+
+Highlights from the 2025 Budget Statement
+
+RAISE THE CEILING: Uplift competitiveness & quality investments Competitive investment destination Swift approvals, Industrial Parks Promote quality investments Incentivise high-value investments, complex E&E, automation Green, inclusive and innovative financing Economic resilience Energy transition, climate resilience, food security, medical supplies
+
+RAISE THE FLOOR: Uplift standard of living and social protection High income & high-skilled jobs Minimum wage, high- value job creation Address cost of living Targeted cash assistance, reduce profiteering Efficient public service Sejati MADANI, health & education, public transportation Social protection reforms Pension reforms, informal sector, micro- insurance, 2nd chances
+
+================================================================================
+
+CHUNK 12
+----------------------------------------
+Characters: 289
+Words: 33
+Type: CompositeElement
+
+GOVERNANCE: Strengthen fiscal position and public services Fiscal reforms Subsidy retargeting, consumption tax RMK-13 Public infrastructure, Public-private partnership reforms Public service transformation Civil servant salary review Improve governance Reduce leakages, Procurement Act
+
+11
+
+================================================================================
+
+CHUNK 13
+----------------------------------------
+Characters: 636
+Words: 102
+Type: CompositeElement
+
+Steady realisation of the Public Finance and Fiscal Responsibility Act (FRA) targets
+
+Fiscal Policy To remain supportive of growth
+
+Supporting growth while pursuing gradual fiscal consolidation
+
+Unlocking greater space for productive spending
+
+Fiscal deficit (% share of GDP) 2021 6.4% 2022 5.6% 5% 2023 2024p 4.3% 3.8% 2025f Below 3% As outlined in the FRA Source: Ministry of Finance, Malaysia
+
+Targets as outlined in the FRA
+
+Annual Development Expenditure not less than 3% of GDP
+
+Medium-Term Fiscal Balance not more than -3% of GDP
+
+Medium-Term Debt Level not more than 60% of GDP
+
+Financial Guarantees not more than 25% of GDP
+
+12
+
+================================================================================
+
+CHUNK 14
+----------------------------------------
+Characters: 592
+Words: 90
+Type: CompositeElement
+
+Why Malaysia?
+
+£
+
+Malaysia will keep reinventing itself for growth, continuing our 60-year track record en route to become a high-income nation
+
+1
+
+a
+
+A
+
+Comprehensive reform programs have been embarked on, with more to come – paving opportunities for investors
+
+The economic fundamentals are sound and are set to improve further
+
+Malaysia is part of a fast-growing region with rapidly increasing significance in global trade and foreign direct investments
+
+Malaysia is poised to register consistently solid growth performance in the immediate- and medium-term
+
+13
+
+MINISTRY OF FINANCE End 14
+
+================================================================================
+

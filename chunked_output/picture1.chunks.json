@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": 1,
+    "text": "Table 1: Key government forecasts\n\n2021 2022 2023 2024E 2025B* Fiscal Indicators RM bil 233.8 294.4 315.0 322.1 339.7 Revenue % of GDP 15.1 16.4 17.3 16.5 16.3 Operating RM bil 2315 292.7 3113 321.5 335.0 expenditure % of GDP 15.0 16.3 17.1 16.5 16.1 Development RM bil 64.3 71.6 96.1 86.0 86.0 expenditure % of GDP 4.2 4.0 5.3 4.4 4.1 RM bil -98.7 -99.5 -91.4 -84.3 -80.0 Fiscal balance % of GDP -6.4 -5.6 -5.0 -4.3 -3.8 Macroeconomic Indicators Real GDP growth % 3.1 8.7 3.6 5.0 4.7 Nominal GDP % 9.0 15.7 1.6 6.8 7.0 growth CPI Inflation % 2.5 3.4 2.5 1.5-2.5 3.0-3.5 Crude Oil Price USD/bbl 71 101 80 80-85 75-80\n\nSources: Ministry of Finance, US Energy Information Administration, RAM Note: 2024E and 2025B denotes figures tabled in Budget 2025",
+    "type": "CompositeElement",
+    "metadata": {
+      "original_filename": "picture1.png.json",
+      "chunk_index": 1,
+      "character_count": 749,
+      "word_count": 135,
+      "created_at": "2025-09-06T12:11:16.701104",
+      "original_elements_count": 3,
+      "original_element_types": [
+        "Title",
+        "Table",
+        "NarrativeText"
+      ]
+    }
+  }
+]

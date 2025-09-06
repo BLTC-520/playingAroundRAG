@@ -1,0 +1,2169 @@
+CHUNKED DOCUMENT: ar2023_slides.pdf.json
+================================================================================
+
+CHUNK 1
+----------------------------------------
+Characters: 425
+Words: 68
+Type: CompositeElement
+
+SIDANG AKHBAR ■ LAPORAN TAHUNAN BNM 2023 ■ TINJAUAN EKONOMI & MONETARI 2023 ■ TINJAUAN KESTABILAN KEWANGAN SEPARUH KEDUA 2023 20 MAC 2024
+
+Overview global growth The Malaysian economy to improve in 2024 and recovery in exports from both domestic and global factors 2
+
+In 2023, the Malaysian economy expanded by 3.7% driven by resilient domestic demand amid slower
+
+improve in 2024 expansion in domestic demand
+
+downside risks
+
+================================================================================
+
+CHUNK 2
+----------------------------------------
+Characters: 300
+Words: 47
+Type: CompositeElement
+
+In 2023, the Malaysian economy expanded by 3.7%
+
+Growth was driven by resilient domestic demand amid slower global growth
+
+Annual change (%) 8.7 3.7 3.3 2021 2022 2023p p Preliminary Source: Department of Statistics Malaysia and Bank Negara Malaysia
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+3
+
+================================================================================
+
+CHUNK 3
+----------------------------------------
+Characters: 226
+Words: 33
+Type: CompositeElement
+
+Consumption and investment spending expanded, albeit more modest in 2023, after a strong recovery in 2022
+
+Private Consumption
+
+Total investment
+
+Annual change (%)
+
+Annual change (%)
+
+2
+
+4.7%
+
+(2022: 11.2%)
+
+5.5%
+
+(2022: 6.8%)
+
+================================================================================
+
+CHUNK 4
+----------------------------------------
+Characters: 207
+Words: 30
+Type: CompositeElement
+
+Weaker external demand and global technology downcycle weighed on production and exports
+
+Exports of Goods and Services Manufacturing Annual change (%) Annual change (%) 0.7% -7.9% (2022: 14.5%) (2022: 8.1%)
+
+================================================================================
+
+CHUNK 5
+----------------------------------------
+Characters: 238
+Words: 40
+Type: CompositeElement
+
+Global growth to sustain and trade to rebound in 2024
+
+Global Real GDP Growth Annual Change (%) Global Trade Annual Change (%) 2011-2019 Average: 3.5 5.2 3.5 2011-2019 Average: 3.7 3.1 2.7-3.2 2.9-3.4 2022 2023e 2024f 2022 0.4 2023e 2024f
+
+================================================================================
+
+CHUNK 6
+----------------------------------------
+Characters: 207
+Words: 29
+Type: CompositeElement
+
+Global growth will be supported by:
+
+▲ Resilient labour markets supporting consumption
+
+▲ Global trade rebound, driven by technology upcycle and tourism activities
+
+▲ Continued moderation in global inflation
+
+================================================================================
+
+CHUNK 7
+----------------------------------------
+Characters: 381
+Words: 57
+Type: CompositeElement
+
+… but headwinds could arise from:
+
+▼ Impact from high interest rate environment
+
+▼ Geopolitical tensions
+
+▼ Withdrawal of fiscal support
+
+e Estimate, f Forecast
+
+Note: 2024 global growth and global trade forecast range is based on Bank Negara Malaysia’s estimates Source: International Monetary Fund, Bank Negara Malaysia estimates
+
+BANK NEGARA MALAYSIA CENTRAL BANK OF MALAYSIA
+
+4
+
+================================================================================
+
+CHUNK 8
+----------------------------------------
+Characters: 665
+Words: 100
+Type: CompositeElement
+
+The Malaysian economy to grow 4.0% - 5.0% in 2024
+
+Malaysia GDP Growth Key Growth Drivers in 2024 Annual Change (%) Continued expansion in household spending Higher income growth and continued expansion 4.0% - 5.0% in employment 3.7 Improvement in investment Supported by new and ongoing multi-year projects as well as implementation of national master plans Recovery in goods trade activity Stronger global trade amid the technology upcycle 2023p 2024f Further improvement in tourist Note: p Preliminary, f Forecast Source: Department of Statistics Malaysia and Bank Negara Malaysia estimates arrivals and spending
+
+BANK NEGARA MALAYSIA CENTRAL BANK OF MALAYSIA
+
+5
+
+================================================================================
+
+CHUNK 9
+----------------------------------------
+Characters: 872
+Words: 121
+Type: CompositeElement
+
+Household spending underpinned by improving income…
+
+Factors supporting private consumption
+
+Annual change (%) (2015-’19 avg.: 6.9%) 1 Higher income growth Nominal Compensation of Employees, COE1 Factors supporting income growth Annual change (%) (2015-’19 avg.: 7.0%) Higher external demand Export-oriented manufacturing2 income: 17.5% of total nominal COE (2022) 5.7 6.5 4.7 5.5 – 6.5 Continued improvement in tourism 5.3 – 5.7 Tourism-related3 sectors income: 18.5% of total nominal COE (2022) Higher productivity especially from digitalisation and automation Investments in ICT, machinery & equipment 2022: 28.3% of total investment 2023 2024f 2022 2023e 2024f (2015-19 avg: 21.6%) 1/ COE: Compensation of employees comprises employees' remuneration in cash such as salary and bonuses or in-kind including staff accommodation and social contribution paid by employers.
+
+================================================================================
+
+CHUNK 10
+----------------------------------------
+Characters: 473
+Words: 65
+Type: CompositeElement
+
+2/ Export-oriented manufacturing refers to manufacturing subsectors related to textiles & apparel, wood & furniture, petroleum, chemical, rubber & plastics, and electrical and electronic (E&E). 3/ Tourism-related sectors refers to wholesale & retail trade, food & accommodation services subsectors.
+
+Note: f = forecast, e = estimate
+
+Source: Department of Statistics Malaysia and Bank Negara Malaysia estimates
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+6
+
+JEK/Labour
+
+================================================================================
+
+CHUNK 11
+----------------------------------------
+Characters: 490
+Words: 74
+Type: CompositeElement
+
+…and favourable labour market conditions, with additional policy support
+
+2
+
+Continued employment growth and low unemployment rate
+
+Employment level and growth Number of persons and annual change (%)
+
+16.5 mil 16.2 mil (1.7%) (2.8%) 2023p 2024f
+
+Unemployment rate % of labour force 3.8 2019 average: 3.3% 3.4 3.3 2022 2023 2024f
+
+Source: Department of Statistics Malaysia, Ministry of Finance Malaysia, and Bank Negara Malaysia estimates
+
+BANK NEGARA MALAYSIA CENTRAL BANK OF MALAYSIA
+
+7
+
+3
+
+================================================================================
+
+CHUNK 12
+----------------------------------------
+Characters: 314
+Words: 44
+Type: CompositeElement
+
+Targeted policy measures
+
+Measures to raise employment…
+
+2
+
+Upskilling and training initiatives
+
+Hiring incentives for vulnerable groups
+
+o
+
+Tax incentives for women returning to work
+
+…and household income
+
+] =
+
+Targeted cash assistance (e.g. Sumbangan Tunai Rahmah)
+
+o
+
+Early incentive payment for Civil Servants
+
+================================================================================
+
+CHUNK 13
+----------------------------------------
+Characters: 618
+Words: 92
+Type: CompositeElement
+
+Investments supported by new and ongoing multi-year projects and implementation of national master plans will contribute to growth
+
+Continued expansion in capital spending…
+
+Real Gross Fixed Capital Formation
+
+Annual change (%)
+
+Avg. 2011-19: 5.5%
+
+6.2 5.5 2023 2024f
+
+f forecast
+
+…as the implementation of approved investments are well on track
+
+MIDA: Total Approved Investment RM bil Approved Investment in 2021-2023 by Selected Industries 309 268 330 E&E investments RM262.7 bil ICT investments RM161.4 bil 2021 2022 2023
+
+“Between 2021 - ’23, 74% of approved mfg. projects are in various stages of implementation1”
+
+================================================================================
+
+CHUNK 14
+----------------------------------------
+Characters: 734
+Words: 104
+Type: CompositeElement
+
+Further support by implementation of multi-year investments, including projects in industries promoted by the national master plans
+
+Ongoing Projects2
+
+A 1 MALAYSIA RAIL LINK
+
+ECRL RM50 bil (2018-’27)
+
+Pan Borneo Highway (Sabah) Phase 1a RM16 bil (2016-’24)
+
+PETRONAS
+
+Kasawari Carbon Capture & Storage RM4.5 bil (2022-’26)
+
+Digitat Nasional
+
+y -
+
+MyDIGITAL 5G RM16.5 bil (2021-’31)
+
+Nenggiri Hydro RM5 bil (2022-’27)
+
+RTS Link RM3.7 bil (2021-’26)
+
+MRT...
+
+TENAGA NASIONAL
+
+1/ Source: MIDA media release, 29 February 2024
+
+2/ The list is not exhaustive
+
+Source: Department of Statistics Malaysia, Malaysian Investment Development Authority, Bank Negara Malaysia estimates, newsflows
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+8
+
+================================================================================
+
+CHUNK 15
+----------------------------------------
+Characters: 829
+Words: 127
+Type: CompositeElement
+
+Services and manufacturing to be the key driver of growth in 2024
+
+MAVCOM Malaysia Air Traffic Forecast Services (2024f: 5.5%) 2023p: 5.3% Passenger (mil passengers) Cargo (% annual change) • Higher tourism activities • Trade recovery to support logistics 2024f: 93.9 – 107.1 2024f: 6.0 – 6.6 • Ongoing construction projects 2023: 85 2023: -14 IDC Global Device Shipments Outlook (% annual change) Manufacturing (2024f: 3.5%) 2023p: 0.7% Smartphones Personal Computers • Rebound in E&E • Recovery in primary-related cluster amid improvement in upstream supply conditions 2023 -3.2 2024f 2.8 2023: -14.0 2024f 2.0 Agriculture (2024f: -0.5%) 2023p: 0.7% • El Niño and under-fertilisation to affect CPO yields MPOB Fresh Fruit Bunches (FFB) yields (mil tonne per hectare) 18.3 15.8 2010-2019 2023 average p: Preliminary, f: Forecast
+
+================================================================================
+
+CHUNK 16
+----------------------------------------
+Characters: 382
+Words: 50
+Type: CompositeElement
+
+Note: The 2024 growth forecasts are annual growth forecasts for services, manufacturing and agriculture based on Bank Negara Malaysia’s estimates
+
+Source: Malaysian Aviation Commission (MAVCOM); International Data Corporation (IDC); Malaysian Palm Oil Board (MPOB); Department of Statistics Malaysia, Bank Negara Malaysia estimates
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+9
+
+================================================================================
+
+CHUNK 17
+----------------------------------------
+Characters: 695
+Words: 105
+Type: CompositeElement
+
+Rebound in global trade, technology cycle and tourism to provide impetus to Malaysia’s export growth
+
+Recovery in technology cycle WSTS Global Semiconductor Sales Forecast % Annual change 2021: 26.2 2019: -12.1 2020: 6.8 2022: 3.3 2023: -8.2 2024f 13.1
+
+Higher inbound tourism MOTAC Tourist Arrivals Forecast mil persons 2019: 26.1 2020: 4.3 2021: 0.1 2022: 10.1 2023: 20.1 2024f 27.3
+
+Real Exports of Goods & Services % Annual change
+
+4.0 -7.9 2023 2024f
+
+f forecast
+
+Source: Department of Statistics Malaysia, World Semiconductor Trade Statistics (WSTS), Ministry of Tourism, Arts and Culture Malaysia (MOTAC), Bank Negara Malaysia estimates
+
+BANK NEGARA MALAYSIA
+
+10
+
+CENTRAL BANK OF MALAYSIA
+
+================================================================================
+
+CHUNK 18
+----------------------------------------
+Characters: 454
+Words: 71
+Type: CompositeElement
+
+Current account surplus to improve to 1.8% – 2.8% of GDP in 2024
+
+Improvement driven mainly by higher goods surplus and lower services deficit
+
+Current Account Balance
+
+% of GDP Factors supporting 2024 current account balance 2022: 3.1% Recovery in global trade and tech cycle 2024f: 1.8% – 2.8% Higher commodity prices 2023: Improving travel receipts 1.2%
+
+f forecast
+
+Source: Department of Statistics Malaysia, Bank Negara Malaysia estimates
+
+,
+
+BN
+
+11
+
+================================================================================
+
+CHUNK 19
+----------------------------------------
+Characters: 206
+Words: 31
+Type: CompositeElement
+
+The growth outlook remains subject to downside risks
+
+Upside risks
+
+▲ Greater spillover from the tech upcycle
+
+▲ More robust tourism activity
+
+▲ Faster implementation of new and existing investment projects
+
+================================================================================
+
+CHUNK 20
+----------------------------------------
+Characters: 684
+Words: 84
+Type: CompositeElement
+
+Downside risks
+
+▼ Weaker-than-expected external demand
+
+▼ Further escalation of geopolitical conflicts
+
+▼ Larger decline in commodity production
+
+BN ,
+
+12
+
+In 2023, disinflation was broad-based amid easing cost environment and stabilising demand conditions
+
+Inflation in 2023 % Annual change Moderation in underlying inflation reflected broad-based disinflation in 2023 Headline inflation 2023: 2.5% (2022: 3.3%) Core inflation 2023: 3.0% (2022: 3.0%) Jan-19 Aug-19 Mar-20 Oct-20 Headline inflation Trimmed mean (Statistical-exclusion-based) May-21 Dec-21 Jul-22 Feb-23 Core inflation (Permanent-exclusion-based) Common inflation (Model-based) Sep-23 Supercore inflation (Model-based)
+
+================================================================================
+
+CHUNK 21
+----------------------------------------
+Characters: 282
+Words: 37
+Type: CompositeElement
+
+Measures of underlying inflation
+
+More reflective of the medium-term path of the general price level compared to headline inflation
+
+Permanent-exclusion-based
+
+▪ Core inflation (as published by DOSM)
+
+Statistical-exclusion-based
+
+▪ Trimmed mean
+
+▪ Weighted median
+
+▪ Double weighted
+
+================================================================================
+
+CHUNK 22
+----------------------------------------
+Characters: 377
+Words: 55
+Type: CompositeElement
+
+Model-based
+
+▪ Common inflation
+
+▪ Supercore inflation
+
+Source: Department of Statistics Malaysia and Bank Negara Malaysia estimates
+
+Source: Bank Negara Malaysia based on European Central Bank (ECB) Economic Bulletin Issue 4/2018
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+13
+
+For more details, please refer to the EMR 2023 box article “Underlying Inflation at its Core”
+
+================================================================================
+
+CHUNK 23
+----------------------------------------
+Characters: 582
+Words: 93
+Type: CompositeElement
+
+Headline inflation to average between 2.0% and 3.5% in 2024
+
+Headline Inflation Annual Change, % 2024f 2022 3.5 3.3 Headline inflation to average between 2021 2023 2.0% - 3.5% (2023: 2.5%) 2.5 2.5 2.0 ► Partly reflecting the potential upside from domestic subsidy rationalisation Core Inflation Annual Change, % 2024f 2022 2023 3.0 3.0 3.0 Core inflation to average between 2.0% - 3.0% (2023: 3.0%) 2.0 2021 ► Amid stable cost and demand conditions 0.7
+
+Source: Department of Statistics Malaysia and Bank Negara Malaysia estimates
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+14
+
+================================================================================
+
+CHUNK 24
+----------------------------------------
+Characters: 357
+Words: 54
+Type: CompositeElement
+
+Risks to the inflation outlook remain tilted to the upside
+
+Upside risks
+
+Downside risks
+
+▲ Higher prices from the potential review of fuel subsidies
+
+▲ Higher input costs due to exchange rate developments
+
+▲ Higher global commodity prices amid worsening geopolitical tensions and weather disruptions
+
+▼ Softer commodity prices from weaker global growth
+
+15
+
+================================================================================
+
+CHUNK 25
+----------------------------------------
+Characters: 858
+Words: 129
+Type: CompositeElement
+
+Monetary policy remains focused on maintaining price stability to facilitate sustainable domestic economic growth
+
+2023 OPR raised to 3.00%, to fully withdraw the policy stimulus provided during the COVID-19 crisis Overnight Policy Rate (OPR) % 3.5 Mar 2024: 3.00% 3.0 2.5 2.0 1.5 Historical low OPR level: 1.75% 1.0 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+Monetary policy will remain conducive to sustainable economic growth while managing potential risks to inflation
+
+Monetary policy will focus on the medium-term prospects of Malaysia’s economy
+
+− Assessment includes short and longer-term impact of domestic policy on inflation and growth
+
+Monetary policy will continue to balance the risks to domestic inflation and economic growth outlook
+
+The MPC remains vigilant to ongoing developments amid the evolving economic landscape
+
+================================================================================
+
+CHUNK 26
+----------------------------------------
+Characters: 857
+Words: 135
+Type: CompositeElement
+
+2024
+
+Source: Bank Negara Malaysia
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+16
+
+Greater policy rate increases in other countries have affected the ringgit against other currencies
+
+Magnitude of Policy Rate Increases in Selected Countries % (as at 15 March 2024) Malaysia 1.25 Japan 0.00 China -0.25 Indonesia 2.50 Australia 4.25 India 2.50 Philippines 4.50 Thailand 2.00 UK 4.75 Euro area 5.00 US 5.25 Hong Kong 5.25 Singapore 3.27 Mexico 5.25
+
+Performance of MYR Against Selected Currencies, % (15 March 2022 – 15 March 2024) Japan 12.2 China 1.0 Australia -2.0 Indonesia -2.4 India -2.9 Thailand -4.3 Philippines -5.1 UK -8.4 Euro Area -9.7 US -10.5 Hong Kong -10.6 Singapore -12.4 Mexico -28.1
+
+Note: All of the above are central bank policy rates except for Singapore (interbank rate (SORA)); Source: Bloomberg, Department of Statistics Malaysia
+
+================================================================================
+
+CHUNK 27
+----------------------------------------
+Characters: 842
+Words: 136
+Type: CompositeElement
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+17
+
+Going forward, global and domestic factors are expected to support a gradual recovery of the ringgit in 2024
+
+Analysts expect a recovery of the ringgit in 2024…
+
+Ringgit appreciates 4.60 Current (15 March 2024) 4.70 Forecast Jan 24 Feb 24 4.79 Mar 24 2024 2025 The movement of ringgit since Jan 2024 Analyst forecast
+
+4.20
+
+4.30
+
+4.40
+
+4.50
+
+4.60
+
+4.70
+
+4.80
+
+…supported by global and domestic developments
+
+Impact on Global HORIZON: 2023 VS 2022 RM (baseline) Monetary policy easing in the US Stronger regional growth due to rebound in trade China’s growth to moderate lower in 2024 Easing commodity price over the course of the year Impact on Domestic RM (baseline) Structural reforms will provide enduring support Favourable domestic growth outlook
+
+Source: Bloomberg as at 15 March 2024
+
+================================================================================
+
+CHUNK 28
+----------------------------------------
+Characters: 889
+Words: 131
+Type: CompositeElement
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+18
+
+positive and negative
+
+While ringgit is affected by cyclical factors, growth prospects and sound fundamentals suggest the currency is undervalued
+
+Ringgit performance has been mainly affected by cyclical factors…
+
+…however, sound domestic fundamentals and positive prospects will lend support to the ringgit
+
+a
+
+Interest rate differentials
+
+Global Economic Fluctuations
+
+Investor Sentiments
+
+£
+
+Diversified economy
+
+Services
+
+Industry1
+
+58.3
+
+34.1
+
+6.6
+
+Agriculture
+
+% Share of GDP, 2023
+
+Diversified Export Product Mix
+
+14 E&E 40 Non-E&E 45 Commodities
+
+Export Products, Share of Gross Exports, 2023 (%)
+
+Sound Financial Sector
+
+18.5%
+
+RM142.6bil
+
+Total Capital Ratio (2023)
+
+Excess Total Capital (2023)
+
+BNM is taking concerted measures to manage the pressure
+
+a»
+
+[ ] 2 [ ] <
+
+~ —
+
+Encourage conversion of FCY income by GLCs and GLICs
+
+================================================================================
+
+CHUNK 29
+----------------------------------------
+Characters: 598
+Words: 95
+Type: CompositeElement
+
+Actively engage Corporates and Investors
+
+Monitor conversion of export proceeds and import payments
+
+2024f 2015-192 2023 Fundamentals 3.7 4.0 - 5.0 4.9 Economic Growth (%) 2.5 2.0 - 3.5 1.9 Inflation (%) - 8.0 5.0 5.6 Gross Exports Growth (%) Current Account Surplus 1.2 1.8 - 2.8 2.8 (% of GDP) 0.9 2.3 - 3.3 Productivity per worker (%) 3.2
+
+Note: f forecast
+
+1/ Industry consists of manufacturing, mining and construction sector
+
+2/ 5-year average
+
+Source: Department of Statistics Malaysia, International Monetary Fund and Bank Negara Malaysia
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+19
+
+================================================================================
+
+CHUNK 30
+----------------------------------------
+Characters: 742
+Words: 109
+Type: CompositeElement
+
+Growth in credit to private non-financial sector to remain supportive of economic activity
+
+Credit to private non-financial sector continued to expand at a steady pace
+
+Moving forward, financing conditions will continue to remain supportive of economic activity
+
+Credit to private non-financial sector Annual Change (%) / Cont. to growth (ppt)
+
+Outstanding Corporate Bonds 4.7 0.9 4.8 0.8 Outstanding Loans 3.8 3.9 2022 2023
+
+©
+
+©
+
+o
+
+-
+
+Strong lending capacity among banks, given healthy capital and liquidity buffers
+
+Continued willingness to lend by banks
+
+Repayment capacity of household remained sound
+
+Demand for credit supported by steady employment and wage growth
+
+Continued availability of targeted support, including funds for SMEs
+
+================================================================================
+
+CHUNK 31
+----------------------------------------
+Characters: 737
+Words: 103
+Type: CompositeElement
+
+Note: Outstanding loans refer to the sum of outstanding business and household loans, and exclude loans to financial institutions, government, NBFIs and other entities. In addition to loans from the banking system and development financial institutions (DFIs), credit to the private non-financial sector reported here also includes loans to households extended by major non-bank financial institutions (NBFIs). Outstanding corporate bonds include conventional and Islamic short-term papers in addition to longer-term bonds and sukuk, and excludes issuances by Cagamas, government, financial institutions, and NBFIs. Numbers may not add up due to rounding.
+
+Source: Bank Negara Malaysia
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+20
+
+================================================================================
+
+CHUNK 32
+----------------------------------------
+Characters: 210
+Words: 34
+Type: CompositeElement
+
+Banks remain supportive of SMEs’ financing needs
+
+SME financing grew higher at 8.2% in 2023
+
+Outstanding SME Financing Amount outstanding Annual change (%) 8.2% RM 385bil 5.7% RM 355bil RM 336bil 2021 2022 2023
+
+================================================================================
+
+CHUNK 33
+----------------------------------------
+Characters: 227
+Words: 35
+Type: CompositeElement
+
+Sustained high level of approvals and disbursements
+
+SME Financing Approvals & Disbursements
+
+Working capital Investment-related1 Approvals (RM bil) 85 60 55 78 2021 2022 2023 Disbursements (RM bil) 45 66 438 324 2021 2022 2023
+
+================================================================================
+
+CHUNK 34
+----------------------------------------
+Characters: 818
+Words: 116
+Type: CompositeElement
+
+Record growth of 23% for total financing in strategic sectors
+
+Outstanding SME Financing to Strategic Sectors 2
+
+RM bil Dec-22 Total 16.6 ICT Chemicals & Pharmaceutical 4.0 3.3 Machinery 3.1 Transport and Equipment 2.2 Electrical & Engineering 1.9 Research & Development 1.8 Medical 0.3 Optical 0.1 Dec-23 20.5 6.5 3.8 3.3 2.4 2.3 1.9 0.3 0.1
+
+1/ Investment-related purpose includes financing for the purchase of non-residential properties, residential properties for business use, fixed assets (incl. cars), and construction activity. 2/ Strategic Sectors refers to sectors most aligned to the long-term strategic development goals for Malaysia under the National Investment Aspirations. Note: Reflects loan/financing from the banking system and development financial institutions (DFIs)
+
+Source: Bank Negara Malaysia
+
+================================================================================
+
+CHUNK 35
+----------------------------------------
+Characters: 998
+Words: 147
+Type: CompositeElement
+
+BANK NEGARA MALAYSIA CENTRAL BANK OF MALAYSIA
+
+21
+
+Banks are well-positioned to support financial intermediation even under severe simulated downside scenarios
+
+Banks maintained strong capital and liquidity buffers
+
+The Bank’s stress tests1 affirm banks’ ability to support the real economy
+
+Banking System: Key Indicators December 2023 June 2023 Total Capital 18.8% 18.5% Ratio Liquidity 155% 161% Coverage Ratio Net Stable 117% 118% Funding Ratio
+
+Banking System: Total Capital Ratio under Macro Stress Tests AS2 AS1 Pre-shock Sharp GDP contraction Milder GDP contraction followed by a followed by quick recovery slow growth 18.5% 15.8% 15.4% Minimum requirement: 8% Dec’24p2 Dec’25p2
+
+p Projected
+
+1/ The scenarios are more severe than the 2008 Global Financial Crisis as well as the 2020 pandemic. They have been developed specifically for stress testing purposes and do not represent the Bank’s actual expectations for economic trajectory. As such, these scenarios are unlikely to materialise.
+
+================================================================================
+
+CHUNK 36
+----------------------------------------
+Characters: 968
+Words: 147
+Type: CompositeElement
+
+2/ The year with the lowest level of total capital ratio across the 3-year stress test horizon.
+
+Source: Bank Negara Malaysia
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+22
+
+Businesses and households’ repayment capacity is preserved, supported by resilient domestic demand and improving labour market
+
+Share of Stage 2 loans1 for businesses declined despite the challenging environment…
+
+Repayment capacity continues to be supported by:
+
+Share of Stage 2 Loans to Total Business Loans 11.4% 13.8% 12.4% Businesses Dec '19 Jun '23 Dec '23
+
+…but was slightly higher for households, driven by borrowers in the more vulnerable segment2
+
+Share of Stage 2 Loans to Total Household Loans Households 5.8% Dec '19 4.3% Jun '23 4.8% Dec '23
+
+P
+
+o2 e
+
+Improvements in firms’ revenue growth
+
+Large liquid buffers maintained by firms
+
+Favourable labour market conditions, with government support measures for vulnerable households
+
+Healthy growth in household financial assets
+
+================================================================================
+
+CHUNK 37
+----------------------------------------
+Characters: 602
+Words: 87
+Type: CompositeElement
+
+Sound lending standards
+
+Availability of loan repayment assistance for viable borrowers
+
+1/ Stage 2 loans refer to exposures that have exhibited deterioration in credit risk, for which banks are required to set aside provisions based on lifetime expected credit losses under Malaysian Financial Reporting Standard 9. 2/ These include (i) lower-income borrowers, (ii) borrowers who were previously under repayment assistance programmes, and (iii) borrowers whose income levels have yet to fully recover since the pandemic. Source: Bank Negara Malaysia
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+23
+
+================================================================================
+
+CHUNK 38
+----------------------------------------
+Characters: 215
+Words: 27
+Type: CompositeElement
+
+Financial capability and inclusion are crucial for improving financial well-being, particularly for the vulnerable population
+
+Strengthening measurement and evaluation are important to drive impactful outcomes
+
+1
+
+2
+
+================================================================================
+
+CHUNK 39
+----------------------------------------
+Characters: 616
+Words: 83
+Type: CompositeElement
+
+Financial Inclusion Framework’s KPIs
+
+Financial Education Network’s Annual KPIs
+
+Evaluate financial inclusion progress based on headline indicators and targets1 tied to 4 desired outcomes
+
+Established baseline KPI on four focus areas
+
+Access to affordable and suitable financial products and services
+
+3
+
+SOLUTIONS
+
+ACCESS
+
+AWARENESS
+
+APPLICATION
+
+%)
+
+Responsible usage of financial products and services
+
+B
+
+Financial innovation that delivers value for all
+
+&
+
+Financially-capable consumers with good financial health
+
+1/ Headline indicators and targets for the Financial Inclusion Framework to be published in 2024
+
+================================================================================
+
+CHUNK 40
+----------------------------------------
+Characters: 297
+Words: 37
+Type: CompositeElement
+
+Financial Education Measurement and Evaluation (FEME) Framework
+
+Measure and evaluate the impact of FE initiatives on knowledge, behaviour and attitude
+
+Efficient Resource Allocation
+
+Programme Improvement
+
+Ensure Accountability and Transparency
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+24
+
+================================================================================
+
+CHUNK 41
+----------------------------------------
+Characters: 277
+Words: 43
+Type: CompositeElement
+
+Financial sector accelerating support for businesses to transition
+
+I
+
+Available Financing Facilities and Tools
+
+ESG Financing Allocation (up to 2027) > RM110 bil > RM240 bil1 BNM Survey 2022 BNM Survey 2023
+
+JC3 ESG Jumpstart portal
+
+Resources and tools to transition for SMEs
+
+================================================================================
+
+CHUNK 42
+----------------------------------------
+Characters: 435
+Words: 69
+Type: CompositeElement
+
+Greening Value Chain
+
+Technical training and tools to measure and report GHG2 by SMEs
+
+Standardised due diligence
+
+Standardised questionnaire to ease financing applications
+
+[ ] [l 0 (
+
+Climate Data Catalogue
+
+Listing of 249 granular data items, 14 data groups
+
+1 Pledges by banks at the JC3 Journey to Zero Conference in October 2023
+
+2 Greenhouse gases
+
+Source: Bank Negara Malaysia
+
+BANK NEGARA MALAYSIA CENTRAL BANK OF MALAYSIA
+
+25
+
+================================================================================
+
+CHUNK 43
+----------------------------------------
+Characters: 413
+Words: 54
+Type: CompositeElement
+
+Islamic finance continues to contribute to the Malaysian economy through value-based finance
+
+Desired Outcomes of Value-Based Finance
+
+Impact-focused solutions that deliver finance for all
+
+Sound financial conduct underpinned by universal Shariah values
+
+Triple bottom line impact to the economy, environment and communities, while generating sustainable returns
+
+©
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+================================================================================
+
+CHUNK 44
+----------------------------------------
+Characters: 234
+Words: 29
+Type: CompositeElement
+
+Initiatives pursued will require enduring industry commitment
+
+More SDG-aligned financial innovation
+
+• Blended finance for climate action and social empowerment
+
+• Wealth circulation through social re-investment and mutual assistance
+
+================================================================================
+
+CHUNK 45
+----------------------------------------
+Characters: 799
+Words: 108
+Type: CompositeElement
+
+Embedding fair treatment and Ihsan in financial practices
+
+• Educating financial consumers and engaging vulnerable communities
+
+• Improving stakeholder satisfaction
+
+Measuring beyond profit
+
+• Improving quality of impact-based disclosures
+
+• Aligning corporate value intent and stakeholder expectations
+
+26
+
+Value-based Intermediation (VBI) progress to-date
+
+16 VBI Community of Practitioners
+
+RM433.8 billion intermediated by Islamic banks in VBI- aligned initiatives1
+
+RM16.5 billion disbursed to net zero and green financing2
+
+Source:
+
+AIBIM (2022) Value-based Intermediation
+
+Report: Emerging to Engaging
+
+1 Data from 2017 – 2022
+
+2 Data as of 2022
+
+For more details, please refer to the AR 2023 box article ‘Realising the Value-based Intermediation (VBI) Vision: Five Years After Introduction’.
+
+================================================================================
+
+CHUNK 46
+----------------------------------------
+Characters: 260
+Words: 33
+Type: CompositeElement
+
+Sustained 'whole-of-nation' approach required to preserve confidence in digital payments
+
+Enhancement on prevention and awareness initiatives to strengthen defence against fraud
+
+Enforcement to benefit from efficiency gains upon launch of National Fraud Portal
+
+================================================================================
+
+CHUNK 47
+----------------------------------------
+Characters: 862
+Words: 115
+Type: CompositeElement
+
+Prevention Enforcement | Recovery National Fraud Portal (NFP) Strengthened fraud prevention measures, including for non-bank e-money issuers A joint effort between NSRC1 and financial industry with PayNet Expected outcomes Awareness | Customer protection Expedited fraud report handling to increase likelihood of freezing stolen money Intensified scam education programmes by Automated fund tracing capabilities to facilitate faster financial industry and agencies industry response time Efficient mule identification process supported by Fairer treatment of fraud victims, with more robust, credible dataset transparent and timely investigation process 1/ The National Scam Response Centre (NSRC) is a joint effort between the National Anti-Financial Crime Centre (NFCC), PDRM, BNM, MCMC, as well as financial institutions and the telecommunications industry 27
+
+================================================================================
+
+CHUNK 48
+----------------------------------------
+Characters: 960
+Words: 132
+Type: CompositeElement
+
+®
+
+o
+
+®
+
+BANK
+
+Structural reforms are crucial to ensure stronger and more sustainable economic growth
+
+Steady growth and stabilising global cost conditions provide a window of opportunity to implement key reforms
+
+Implementation of master plans ✓ New Industrial Master Plan 2030 ✓ National Energy Transition Roadmap ✓ New Investment Policy – National Investment Aspirations Labour market reforms ✓ Enhance collaboration between Government, academia & industry ✓ Implement Multi-tier Levy Mechanism1 for foreign worker ✓ Promote lifelong learning Strengthen social protection ✓ Minimising inclusion and exclusion errors ✓ Consolidation of overlapping cash assistance programmes ✓ Interlinkages of social protection pillars via conditionalities Commitment to fiscal reforms ✓ Adhering to the Public Finance and Fiscal Responsibility Act (FRA) and the Medium-Term Fiscal Framework (MTFF) ✓ Redirect savings from subsidy rationalisation towards productive spending
+
+================================================================================
+
+CHUNK 49
+----------------------------------------
+Characters: 212
+Words: 33
+Type: CompositeElement
+
+1/ Multi-tier Levy Mechanism aims to reduce dependency on low skilled foreign workers by imposing higher levy rates for employers with a larger foreign workforce
+
+BANK NEGARA MALAYSIA CENTRAL BANK OF MALAYSIA
+
+28
+
+================================================================================
+
+CHUNK 50
+----------------------------------------
+Characters: 362
+Words: 54
+Type: CompositeElement
+
+Bank Negara Malaysia: Financial position remained sound in 2023
+
+Total Assets RM631.26 bil 2022: RM619.04 bil International Reserves RM520.86 bil USD113.48 bil RM503.33 bil 2022: USD114.65 bil Net Profit RM7.16 bil 2022: RM6.99 bil Dividend to Government RM2.85 bil 2022: RM2.75 bil Source: Bank Negara Malaysia
+
+BANK NEARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+29
+
+================================================================================
+
+CHUNK 51
+----------------------------------------
+Characters: 933
+Words: 136
+Type: CompositeElement
+
+16 box articles across AR, EMR and FSR publications cover various themes and issues
+
+Economy & Monetary Policy
+
+Sustainability
+
+Islamic Finance
+
+e " [ [
+
+Navigating Economic Cycles: Interactions Between Monetary and Fiscal Policy
+
+Navigating economic cycles requires a balanced and coherent approach to monetary and fiscal policy
+
+o 2
+
+Underlying Inflation at its Core
+
+Underlying inflation aims to capture the medium-term path of the general price level, which is an important signal for monetary policy
+
++
+
+Supporting SMEs in their Green Transition Journey
+
+The financial sector has introduced various initiatives to help SMEs build their technical capability and improve access to financing
+
+L[4 NN N
+
+Realising the Value-based Intermediation (VBI) Vision: Five Years After Introduction
+
+Adoption of VBI requires enduring industry commitment to accelerate its impact on the economy, community and environment
+
+BANK NEGARA MALAYSIA
+
+================================================================================
+
+CHUNK 52
+----------------------------------------
+Characters: 626
+Words: 93
+Type: CompositeElement
+
+CENTRAL BANK OF MALAYSIA
+
+30
+
+… and many more
+
+Learn more at bnm.gov.my/publications
+
+Summary
+
+The Malaysian economy to expand by 4% to 5% in 2024 supported by resilient domestic demand and recovery in exports Headline and core inflation to average 2.0%-3.5% and 2.0%-3.0%, respectively The growth outlook remains subject to downside risks, emanating from both global and domestic factors Capital and liquidity positions of banks remain strong to support economic activities Implementation of key structural reforms is critical to ensure stronger and more sustainable growth going forward
+
+,
+
+BN
+
+31
+
+Additional Information 37
+
+================================================================================
+
+CHUNK 53
+----------------------------------------
+Characters: 578
+Words: 95
+Type: CompositeElement
+
+2024f: Higher growth across most economic sectors
+
+GDP Growth by Economic Activity % Share 2022 2023p 2024f (Annual Change, %) (2023p) Real GDP 100.01 8.7 3.7 4.0 - 5.0 Services 59.2 10.9 5.3 5.5 Manufacturing 23.4 8.1 0.7 3.5 Agriculture 6.4 0.1 0.7 -0.5 Mining & Quarrying 6.2 2.6 1.0 3.5 Construction 3.6 5.0 6.1 6.7
+
+1/ Figures may not necessarily add up due to rounding and exclusion of import duties component
+
+Source: Department of Statistics, Malaysia and Bank Negara Malaysia estimates
+
+Note: p Preliminary, f Forecast
+
+BANK NEGARA MALAYSIA CENTRAL BANK OF MALAYSIA
+
+38
+
+================================================================================
+
+CHUNK 54
+----------------------------------------
+Characters: 230
+Words: 37
+Type: CompositeElement
+
+Malaysia GDP Growth by Economic Activity
+
+Annual Change (%), Ppt. Contribution Real GDP: 8.7% 0.2 2.0 3.7% 6.2 0.2 0.2 3.1 2022 2023p Services Manufacturing Mining & Quarrying Agriculture Construction 4.0% - 5.0% 0.2 0.8 3.3 2024f
+
+================================================================================
+
+CHUNK 55
+----------------------------------------
+Characters: 456
+Words: 78
+Type: CompositeElement
+
+2024f: Improvement across most demand components
+
+GDP Growth by Expenditure Components (Annual Change, %) % Share (2023p) 2022 2023p 2024f Real GDP 100.0 8.7 3.7 4.0 – 5.0 Domestic Demand1 94.1 9.2 4.8 5.4 Private Consumption 60.8 11.2 4.7 5.7 Private Investment 15.5 7.2 4.6 6.1 Public Consumption 13.3 4.5 3.9 3.2 Public Investment 4.6 5.3 8.6 6.2 Net Exports of Goods and Services 4.7 -1.0 -11.3 2.1 Exports 66.3 14.5 -7.9 4.0 Imports 61.6 15.9 -7.6 4.1
+
+================================================================================
+
+CHUNK 56
+----------------------------------------
+Characters: 474
+Words: 74
+Type: CompositeElement
+
+Malaysia GDP Growth by Expenditure Components
+
+Annual Change (%), Ppt. Contribution
+
+Real GDP: 8.7% Private Consumption Total Investment Public Consumption Net Exports of Goods & Services 1.4 Change in Stocks 4.0% - 5.0% 3.7% 0.4 6.6 0.5 1.1 1.2 2.8 3.5 -0.1 -0.6 -0.7 -0.1 2022 2023p 2024f
+
+Note: p Preliminary, f Forecast
+
+1/ Excluding stocks
+
+Source: Department of Statistics, Malaysia and Bank Negara Malaysia estimates
+
+BANK NEGARA MALAYSIA CENTRAL BANK OF MALAYSIA
+
+39
+
+================================================================================
+
+CHUNK 57
+----------------------------------------
+Characters: 791
+Words: 128
+Type: CompositeElement
+
+Output gap is expected to turn positive in 2024
+
+Continued growth in potential output, supported by expansion in factors of production
+
+Actual Output and Potential Output Growth
+
+Annual Change (%) 4.4 8.7 3.7 4.0 - 5.0 4.2 1.5 3.3 2.1 4.2 3.7 3.5 - 4.5 Actual Output -5.5 Potential Output 2019 2020 2021 2022 2023e 2024f
+
+Factors of Production
+
+Labour Force Expansion Capital Accumulation Productivity Improvement
+
+Note: e Estimate, f Forecast
+
+Source: Department of Statistics, Malaysia and Bank Negara Malaysia estimates
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+Larger expansion of actual output relative to potential output would result in a positive output gap in 2024
+
+Output Gap % Share of Potential Output 1.6 0.0 to 1.0 -0.1 -0.2 -4.2 -5.3 2019 2020 2021 2022 2023e 2024f
+
+40
+
+================================================================================
+
+CHUNK 58
+----------------------------------------
+Characters: 889
+Words: 129
+Type: CompositeElement
+
+Income growth to improve despite more moderate expansion in employment
+
+2023: Employment growth remained strong despite weak external demand, while income growth moderated
+
+Employment Growth by Economic Sector %yoy, ppt cont. Domestic- 3.1 2.8 linked sectors1 1.3 External-linked sectors1 2021 2022 2023
+
+Private Sector Wages by Economic Sector %yoy, ppt cont. 6.7 Domestic- linked sectors1 3.7 External-linked 0.5 sectors1 2021 2022 2023
+
+2024: Firms to sustain hiring while focusing on improving productivity, which would also support higher income growth
+
+Productivity per worker Annual change (%) 5.4 2.3 - 3.3 0.9 2022 2023p 2024f
+
+Insights from BNM’s industrial engagements Most firms intend to sustain their current headcount, as their workforce are at an optimal level Firms cited automation efforts to improve efficiency and gradually reduce their reliance on low-skilled workers.
+
+================================================================================
+
+CHUNK 59
+----------------------------------------
+Characters: 555
+Words: 70
+Type: CompositeElement
+
+1/ External-linked sectors refers to the mining sector, export-oriented manufacturing subsectors, and wholesale trade and transport & storage services subsectors. Other sectors are classified as domestic-linked sectors. Classification of external-linked employment includes retail trade due to data limitations. Private sector wages only includes wages from services and manufacturing sector. Source: Department of Statistics, Malaysia, BNM Regional Economic Surveillance, Bank Negara Malaysia estimates
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+41
+
+================================================================================
+
+CHUNK 60
+----------------------------------------
+Characters: 768
+Words: 106
+Type: CompositeElement
+
+Sustained financial buffers, improving consumer confidence and Government policy measures to support household spending
+
+Sustained household savings to support spending
+
+Saving, demand and fixed deposits of individuals
+
+RM bil
+
+880.0
+
+870.0 Jan-24: RM868.2 bil 860.0 850.0 840.0 2013-2019 trend 830.0 820.0 Jan-23 Apr-23 Jul-23 Oct-23 Jan-24
+
+Improving consumer sentiments amid better economic outlook
+
+BNM Consumer Sentiment Survey Index 100.0
+
+95.0 90.0 Feb-24: 85.0 85.0 80.0 75.0 1Q22 3Q22 1Q23 3Q23 Jan-24
+
+Drivers of Improving Sentiments Improving labour market conditions Better current and expected finances
+
+2024: Policy measures to partly cushion cost of living pressures
+
+Sumbangan Tunai Rahmah
+
+RM10bil
+
+✓ Benefits almost 9 million recipients
+
+2023: RM8bil
+
+================================================================================
+
+CHUNK 61
+----------------------------------------
+Characters: 430
+Words: 57
+Type: CompositeElement
+
+Early incentive payments to civil servants
+
+v
+
+servants’ grade 561
+
+2023: RM1.3bil (Aidilfitri Special Assistance)
+
+✓ RM1,000 to government retirees
+
+1/ Including police, firefighters, soldiers, armed forces, all uniformed personnel and contract appointees.
+
+Source: Bank Negara Malaysia, Bank Negara Malaysia Monthly Consumer Sentiment Survey and Estimates, Ministry of Finance
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+42
+
+================================================================================
+
+CHUNK 62
+----------------------------------------
+Characters: 769
+Words: 114
+Type: CompositeElement
+
+Recovery in Malaysia’s export performance in 2024
+
+Malaysia's exports contracted later compared Exports have been improving since 4Q 2023 to regional countries and is turning positive this year Gross Export Growth for Malaysia and Selected Regional Economies* (USD) Malaysia’s Gross Export Growth Annual change of 3 months moving average (3mma) % Annual change, % 38.5 Malaysia 21.8 Regional expansion economies contraction -6.9 -20.2 -18.6 -15.2 Feb-22 May-22 Aug-22 Nov-22 Feb-23 May-23 Aug-23 Nov-23 Feb-24 1Q22 2Q22 3Q22 4Q22 1Q23 2Q23 3Q23 4Q23 3.9 Jan-Feb 24
+
+*Refers to sum of exports of selected regional economies, which are Singapore, Korea, Hong Kong and Chinese Taipei Source: Department of Statistics Malaysia and national authorities
+
+BANK NEGARA MALAYSIA
+
+================================================================================
+
+CHUNK 63
+----------------------------------------
+Characters: 415
+Words: 62
+Type: CompositeElement
+
+CENTRAL BANK OF MALAYSIA
+
+43
+
+Adequate buffers to weather external shocks
+
+Malaysia remained in a net creditor position
+
+Net International Investment Position
+
+Share of GDP (%)
+
+5.8 6.6 5.7 3.0 Net creditor position -2.6 Net debtor position 2019 2020 2021 2022r 2023p
+
+Note: p Preliminary, r Revised
+
+Source: Department of Statistics Malaysia and National Authorities
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+================================================================================
+
+CHUNK 64
+----------------------------------------
+Characters: 242
+Words: 34
+Type: CompositeElement
+
+Large FCY assets to compensate for potential claims on liabilities
+
+FCY-Denominated External Assets & Liabilities (End-2023) RM bil
+
+2,306 1,023 FCY Assets FCY Liabilities
+
+44
+
+Further support from foreign income and international reserves
+
+o
+
+================================================================================
+
+CHUNK 65
+----------------------------------------
+Characters: 305
+Words: 43
+Type: CompositeElement
+
+Sustained foreign income
+
+Continued current account surplus reduces external financing requirements
+
+Sufficient international reserves to facilitate international transactions
+
+… to finance 5.4 months of imports of goods & services and is 1.0 times of total short-term external debt as at 29 February 2024
+
+================================================================================
+
+CHUNK 66
+----------------------------------------
+Characters: 757
+Words: 108
+Type: CompositeElement
+
+Malaysia’s external debt remains manageable
+
+Risks arising from external debt are Banks and corporates are resilient to face well-managed given favourable profile potential external shocks Breakdown of Malaysia’s External Debt (End-2023) Banks’ and Corporates’ Liquid External Assets* and External RM bil Debt-at-Risk (EDAR)** (RM bil) 1,242 % 4.7 10.1 Others Trade Credits 10% backed by export proceeds 723.8 150.0 FCY- denominated, (67%) 16.6 8.2 Intercompany Loans NR deposits 16.6 % on concessionary basis & flexible 90.9 10.1 Loans 26.4 Interbank 65% subject to BNM’s prudential & borrowings regulatory 9.2 RM- requirements denominated, (33%) 20.3 Bond & notes Corporates Liquid External Assets Banks External Debt-At-Risk
+
+Source: Bank Negara Malaysia
+
+================================================================================
+
+CHUNK 67
+----------------------------------------
+Characters: 485
+Words: 67
+Type: CompositeElement
+
+* Banks’ liquid external assets consists of deposit & interbank placements, bonds and notes, and money market instruments. For corporates, it consists of portfolio investments and intragroup deposits ** Banks’ EDAR consist of short-term financial institutions’ deposits, interbank borrowings and loans from unrelated counterparties. For corporates, it refers to offshore loans raised and bonds issued by high-risk corporate borrowers
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+45
+
+================================================================================
+
+CHUNK 68
+----------------------------------------
+Characters: 282
+Words: 43
+Type: CompositeElement
+
+Federal Government debt remains sustainable
+
+As at end 2023, the Federal Government debt remains below the statutory debt limit
+
+Federal Government debt
+
+75
+
+Share of GDP (%) Statutory debt limit: 65% 0.6 1.6 Others Foreign currency- denominated debt 64.3% 62.1 Statutory debt 2023p
+
+================================================================================
+
+CHUNK 69
+----------------------------------------
+Characters: 220
+Words: 33
+Type: CompositeElement
+
+Risks to the debt sustainability remains limited supported by several key factors
+
+Supporting factors:
+
+Low share of foreign currency-denominated debt
+
+Remains low at 1.6% of GDP and 2.6% of total Federal Government debt
+
+================================================================================
+
+CHUNK 70
+----------------------------------------
+Characters: 869
+Words: 120
+Type: CompositeElement
+
+Medium-Term Fiscal Framework (MTFF)
+
+Continued commitment to fiscal consolidation with an average medium-term fiscal balance target of -3.5% of GDP from 2024-26
+
+Fiscal reforms
+
+Supported by fiscal reforms such as the implementation of targeted subsidies and revenue enhancements via Medium-Term Revenue Strategy (MTRS)
+
+Source: Ministry of Finance, Malaysia
+
+p Preliminary
+
+Note: Statutory debt refers to the sum of outstanding Malaysian Government Securities (MGS), Malaysian Government Investment Issues (MGII), and Malaysian Islamic Treasury Bills (MITB). Foreign currency- denominated debt refers to debt borrowed in foreign currency comprising of market and project loans. Meanwhile, others refer to the sum of outstanding Malaysian Treasury Bills (MTB) and Housing Loan Fund debt (Sukuk Perumahan Kerajaan, SPK)
+
+BANK NEGARA MALAYSIA CENTRAL BANK OF MALAYSIA
+
+46
+
+================================================================================
+
+CHUNK 71
+----------------------------------------
+Characters: 413
+Words: 62
+Type: CompositeElement
+
+Malaysia’s gross international reserves is adequate as measured against a broad range of indicators
+
+The level of reserves has increased over time…
+
+Malaysia’s gross international reserves USD bil 120 115 Feb-24 114.3 110 105 100 95 Sep-15 90 93.3 Jan-15 Jul-16 Jan-18 Jul-19 Jan-21 Jul-22 Jan-24
+
+Source: Bank Negara Malaysia, International Monetary Fund (IMF)
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+47
+
+================================================================================
+
+CHUNK 72
+----------------------------------------
+Characters: 544
+Words: 94
+Type: CompositeElement
+
+…and remain sufficient against several measures
+
+Reserves coverage of short-term external debt
+
+1
+
+Times 1.40 1.10 Feb-24 1.01 0.80 Minimum threshold: 1.0 times* 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+* Rounded to one decimal point
+
+of
+
+Reserves
+
+2 Times 7.0 Feb-24 5.44 5.0 3.0 Minimum threshold: 3.0 times 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+
+3
+
+IMF ARA metric (2023): 113% (adequacy threshold: 100-150%)
+
+Note: The reserve adequacy as a % of the ARA metric is based on latest estimates by the IMF as at October 2023
+
+================================================================================
+
+CHUNK 73
+----------------------------------------
+Characters: 643
+Words: 101
+Type: CompositeElement
+
+FDI inflows remained encouraging despite a challenging external environment, benefitting mainly the services sector
+
+Foreign investors continued to inject equity and loans for investment in Malaysia
+
+Net FDI by Type of Instruments RM bil 90 74.6 70 50.4 50 39.5 38.0 30 10 -10 2021 2022 2023 Avg. 2015-2019 Equity Injection Reinvested Earnings Debt Instruments Total FDI
+
+Source: Department of Statistics Malaysia, Bank Negara Malaysia
+
+In 2023, FDI inflows to Malaysia originated mainly from regional investors
+
+FDI Inflows by Source Countries* (% of total net FDI in 2023)
+
+56% 39% 12% 10% 9% 7% Singapore Hong Kong Japan China Austria Korea
+
+================================================================================
+
+CHUNK 74
+----------------------------------------
+Characters: 349
+Words: 57
+Type: CompositeElement
+
+Financial services and ICT were the main beneficiaries of these investments
+
+RM14.4 bil (36.5% of total FDI) Financial Services
+
+RM9.3 bil (23.6%)
+
+RM5.9 bil (15.0%) Healthcare
+
+RM2.6 bil (6.6%) Manufacturing
+
+ICT
+
+* Numbers may not add up to 100% as there was also outflows of FDI during the year
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+48
+
+================================================================================
+
+CHUNK 75
+----------------------------------------
+Characters: 835
+Words: 117
+Type: CompositeElement
+
+Encouraging take up on BNM’s Fund for SME facilities
+
+Selected facilities under BNM’s Fund for SMEs: Targeted segments and available balances
+
+Low Carbon Transition Facility Micro Enterprises Facility Micro entrepreneurs, self- SMEs adopting low-carbon business practices employed, gig workers & iTEKAD participants Business Recapitalisation Facility SMEs requiring equity and blended finance BNM’s Fund for SMEs BNM’s Fund for SMEs1 High Tech & Green Facility SMEs in selected high-tech sectors or tech providers RM7.9 bil is available2 All Economic Agrofood Sectors Facility Facility All SMEs, particularly those ADF SMEs in agrofood-related operating ≤ 3 years or with insufficient collateral' SME Automation & Digitalisation Facility SMEs needing to automate activities or digitalise operation Total allocation: RM1.5 bil RM0.8 bil
+
+================================================================================
+
+CHUNK 76
+----------------------------------------
+Characters: 996
+Words: 165
+Type: CompositeElement
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+49
+
+Selected facilities under BNM’s Fund for SMEs: Approval Rates and Utilisation Rate
+
+Facility Approvals in 2023 Cumulative Approvals Cumulative Approval Rate (%) Cumulative Utilisation Rate (%) AES RM1.1 bil RM2.8 bil 85.0 51.6 ADF AF MEF RM0.3 bil RM0.8 bil RM0.1 bil RM1.0 bil RM2.6 bil RM0.4 bil 86.7 93.1 92.1 45.2 76.2 41.6 HTG RM0.5 bil RM0.7 bil 88.3 57.4 LCTF RM0.5 bil RM0.5 bil 89.9 22.0 BRF - - - -
+
+Additional Information: In view of the VMY 2026, the Govt. has allocated RM350 mil in Budget 2024 for the tourism sector. To support this initiative, more than RM400 mil of PENJANA Tourism Financing (PTF) under BNM’s Fund remained available for utilisation (as of December 2023).
+
+1 Other active facilities under BNM’s Fund for SMEs are intended for relief purposes:
+
+i) Disaster Relief Facility (DRF) to assist MSMEs affected by floods (Allocation: RM500 million) ii) PTF to support SMEs in tourism sector (Allocation: RM600 million)
+
+================================================================================
+
+CHUNK 77
+----------------------------------------
+Characters: 521
+Words: 73
+Type: CompositeElement
+
+2 Total balance as at end-December 2023, including for the relief facilities (see footnote 1 above)
+
+Comprehensive and strategic labour market reforms are critical to build a resilient workforce and secure sustainable growth
+
+..
+
+Key megatrends will present challenges and opportunities…
+
+-Tec l
+
+Technological Advancement
+
+Reconfiguration of supply chains
+
+Green transition
+
+[ 4
+
+Ageing population
+
+BANK NEGARA MALAYSIA CENTRAL BANK OF MALAYSIA
+
+..necessitating an urgent and comprehensive reform of the labour market
+
+1
+
+================================================================================
+
+CHUNK 78
+----------------------------------------
+Characters: 202
+Words: 30
+Type: CompositeElement
+
+Address skills mismatch
+
+• Government, academia & industry collaboration to enhance education and training
+
+2
+
+Upskill the workforce for the future
+
+• Promote lifelong learning for an agile workforce
+
+3
+
+================================================================================
+
+CHUNK 79
+----------------------------------------
+Characters: 582
+Words: 83
+Type: CompositeElement
+
+Create high-skilled jobs
+
+• Encourage widespread technological adoption and high-quality investment
+
+4
+
+Design foreign worker policies in line with development needs
+
+• Reduce low-skilled foreign workers as well as attract and retain strategic high-skilled talent
+
+5
+
+Fair compensation and social protection for workers
+
+• Enhance existing wage policies and improve social protection
+
+50
+
+For further details, please refer to the box article “The Case for Labour Market Reforms in Malaysia: Challenges and Opportunities ” in Bank Negara Malaysia’s Economic and Monetary Review 2023.
+
+================================================================================
+
+CHUNK 80
+----------------------------------------
+Characters: 632
+Words: 86
+Type: CompositeElement
+
+Navigating economic cycles requires a balanced and coherent approach to monetary and fiscal policy
+
+Balanced approach to monetary and fiscal policies are critical to ensure optimal macroeconomic outcomes
+
+Counter-cyclical policy tools influencing short-run aggregate demand
+
+MONETARY FISCAL POLICY POLICY Outcomes of balanced approach to policies 1 Preserve macroeconomic stability Maximise the effectiveness of each policy
+
+3
+
+3
+
+Prevent overburdening of policies
+
+BANK NEGARA MALAYSIA CENTRAL BANK OF MALAYSIA
+
+51 44
+
+Several measure could be considered to safeguard the efficacy and interaction between monetary and fiscal policy
+
+================================================================================
+
+CHUNK 81
+----------------------------------------
+Characters: 849
+Words: 111
+Type: CompositeElement
+
+Reforms to facilitate seamless policy interactions: Monetary policy: Strengthening surveillance on inflation dynamics and policy transmission as well as deepening understanding of structural shifts in the economy Fiscal policy: Enhanced assessments on fiscal stance and sustainability1 using economically sound indicators alongside steadfast commitment to fiscal reforms Structural reforms: Improving growth potential and resilience against shocks through: • Transition towards a greener economy • Ensuring future-readiness of the workforce
+
+• Reforms to the social protection system
+
+1/ Refers to assessments such as debt-stabilising primary balance (DSPB) which targets fiscal deficit level where debt moderates and cyclically-adjusted primary balance (CAPB) which captures the stance of fiscal policy in playing an effective counter-cyclical role
+
+================================================================================
+
+CHUNK 82
+----------------------------------------
+Characters: 206
+Words: 29
+Type: CompositeElement
+
+For further details, please refer to the box article “Navigating Economic Cycles: Interactions Between Monetary and Fiscal Policy” in Bank Negara Malaysia’s Economic and Monetary Review 2023.
+
+Enlarged font
+
+================================================================================
+
+CHUNK 83
+----------------------------------------
+Characters: 964
+Words: 132
+Type: CompositeElement
+
+Embracing an ecosystem approach is crucial to further scale up and expand reach of iTEKAD
+
+Programmes by 13 FIs have benefited 6,019 low-income microentrepreneurs
+
+Continued expansion of iTEKAD hinges on collective collaboration of FIs and various stakeholders
+
+Funding availability Regulatory support for growth Diversified funding sources Steer ecosystem development and such as from Government, facilitate fatwa rulings by regulators FIs, public and corporates. and SIRCs* respectively Awareness Alignment of interest Accurate articulation of programme Alignment of expectations and for greater participation of actions by stakeholders towards stakeholders and beneficiaries uplifting the target segment. Market access Viable access to digital and physical marketplaces to enable long-term impact for various stakeholders For further details, please refer to the box article “iTEKAD: An
+
+Financial resilience
+
+92%
+
+Saved an average of RM 4,000 of monthly income
+
+================================================================================
+
+CHUNK 84
+----------------------------------------
+Characters: 608
+Words: 91
+Type: CompositeElement
+
+il
+
+89%
+
+Increased their monthly sales by the end of participation
+
+Business growth
+
+59%
+
+&
+
+Retained at least 1 employee since joining iTEKAD
+
+34%
+
+Employment
+
+Hired at least 1 new employee since joining iTEKAD
+
+*State Islamic Religious Council (SIRC)
+
+Note: Figures are derived from sample of participants who have completed iTEKAD programmes
+
+as at 31 December 2023. 13 participating financial institutions as at February 2024.
+
+Source: Bank Negara Malaysia
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+52
+
+Ecosystem Approach in Scaling Up Social Finance” in Bank Negara Malaysia’s Annual Report 2023.
+
+================================================================================
+
+CHUNK 85
+----------------------------------------
+Characters: 946
+Words: 141
+Type: CompositeElement
+
+Supporting SMEs transition to Greener Practices
+
+Climate change can affect asset values and increase cost of doing business of SMEs
+
+SMEs should kickstart their transition journey to capitalise on the benefits of adopting green and sustainable practices
+
+Essential steps to initiating transition journey
+
+1
+
+Understand: Assess and Analyse Operations
+
+2
+
+Plan and Set Clear Goals
+
+|
+
+3
+
+Engage Employees
+
+I
+
+4
+
+Implement Changes in Processes and Integrate Technology
+
+5
+
+Monitor and Adjust
+
+Key initiatives by the financial sector to support SMEs Guidance and Capacity Financial Solutions JC3 ESG Jumpstart Portal1 Financing Facilities • Low Carbon Transition Facility (LCTF) Simplified ESG Disclosure Guide • High Tech & Green Facility (HTG) • Portfolio Guarantee Scheme by CGC (SEDG) Blended Financing Programs • GVC Programme • Green Agritech Products & Solutions by Fis • Technology or working capital financing • Climate Advisory • Protection
+
+================================================================================
+
+CHUNK 86
+----------------------------------------
+Characters: 302
+Words: 40
+Type: CompositeElement
+
+7
+
+1/ For further information, please refer to: https://www.jc3malaysia.com/esg-jumpstart-for-smes
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+53
+
+For further details, please refer to the box article “Supporting SMEs in Their Green Transition Journey” in Bank Negara Malaysia’s Annual Report 2023.
+
+================================================================================
+
+CHUNK 87
+----------------------------------------
+Characters: 459
+Words: 70
+Type: CompositeElement
+
+Exchange rate pass-through to inflation in Malaysia has been limited
+
+Change in the RM/USD exchange rate1 by 5%
+
+v
+
+)\
+
+Core inflation to increase 0.2 ppt over the year
+
+Note:
+
+1. Source: “Revisiting Exchange Rate Pass-Through to Inflation in Malaysia”, Bank Negara Malaysia Economic & Monetary Review 2022.
+
+2. Source: BNM staff estimates based on Department of Statistics Malaysia Source: Bank Negara Malaysia
+
+BANK NEGARA MALAYSIA
+
+CENTRAL BANK OF MALAYSIA
+
+================================================================================
+
+CHUNK 88
+----------------------------------------
+Characters: 847
+Words: 128
+Type: CompositeElement
+
+Development: ERPT impact to CPI inflation remained contained in 2023
+
+▪ Direct ERPT to imports is evident, whereby 40% of ER depreciation is translated to overall import prices
+
+▪ However, ERPT to CPI inflation was more limited owing to incomplete pass- through and easing in broader cost environment (PPI inflation in 2023: -1.9%)
+
+▪ Share of import content in domestic consumption is modest at approximately 26% 2
+
+Risk: Impact could be larger amid prolonged depreciation, particularly for key necessities
+
+▪ ERPT to consumer inflation tends to be higher during depreciation episodes
+
+▪ Effects are particularly concentrated for necessities with high import content such as food and transportation.
+
+Breakdown of import content in private consumption
+
+Other, 5% F&B, hotels, tobacco, 7% Furnishings, 2% Recreation, 2% Transport, 5% Utilities, 5%
+
+================================================================================
+
+CHUNK 89
+----------------------------------------
+Characters: 539
+Words: 62
+Type: CompositeElement
+
+54
+
+Latest stress test exercise features two hypothetical adverse but plausible scenarios, over a 3-year horizon
+
+Banking Sector Stress Test Key Features
+
+One-way MFRS9 staging – no improvements recognized
+
+No write-offs of impairments
+
+OPR hikes affect interest expense without upsides on interest income
+
+EEEEE N EEEEEEEEEEEEEEEEEEEEEEEEEEEEEE,
+
+Additional deposit outflow shocks for banks that incurred persistent losses or breached regulatory minima *NEW*
+
+..............................................................................
+
+================================================================================
+
+CHUNK 90
+----------------------------------------
+Characters: 687
+Words: 105
+Type: CompositeElement
+
+Insurance Sector Stress Test Key Features
+
+Elevated medical payouts from increasing claims
+
+Elevated general insurance claims from higher costs and flood events
+
+Lower premium rates from intense competition
+
+Hardening of reinsurance market
+
+Economic contraction with GDP declining by up to 6.0% Elevated unemployment rate of up to 6.0% Overarching Scenario Assumptions Unprecedented weakening in ringgit against USD Increase in bond yields of up to 2 times the rise seen during Asian Financial Crisis Sharp decline in the equity market with FBMKLCI losing a third of its value OPR hikes amid weak economic growth to account for potential downside risks Source: Bank Negara Malaysia 55
+
+N
+
+================================================================================
+

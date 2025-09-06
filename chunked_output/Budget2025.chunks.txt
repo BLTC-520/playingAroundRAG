@@ -1,0 +1,115 @@
+CHUNKED DOCUMENT: Budget2025.txt.json
+================================================================================
+
+CHUNK 1
+----------------------------------------
+Characters: 949
+Words: 139
+Type: CompositeElement
+
+Here’s the full text of the press release you linked from RAM Rating Services:
+
+---
+
+**Budget 2025: Continued fiscal consolidation while safeguarding rakyat’s welfare** *Published on 22 Oct 2024*
+
+Malaysia’s recently unveiled Budget 2025 is designed to foster inclusive economic growth while balancing the need for fiscal consolidation and sustainability. It features a mix of enhancements to existing policies and the introduction of new but measured initiatives. While major broad-based reforms were absent, aside from the retargeting of RON95 petrol subsidies, continued policy tweaks will sustain economic growth and manage public finances more prudently.
+
+The government remains committed to fiscal consolidation, projecting a narrowing of the fiscal deficit to 3.8% in 2025 (2024e: 4.3%), in keeping with the Fiscal Responsibility Act 2023’s mid-term goal of 3%. We view this target as achievable, barring any major disruptions to the economy.
+
+================================================================================
+
+CHUNK 2
+----------------------------------------
+Characters: 846
+Words: 133
+Type: CompositeElement
+
+**Fifth consecutive year of fiscal deficit reduction** To achieve this lower fiscal deficit, the government targets to keep a lid on total expenditure in 2025 at RM421.0 bil (+RM13.5 bil), with the expenditure-to-GDP ratio targeted at 20.2% (2024e: 20.9%). A key driver of these savings will be a RM8.8 bil reduction in subsidies and social assistance spending (2025f: RM52.6 bil), with almost half (RM4.0 bil) stemming from the diesel subsidy rationalisation.
+
+Additional savings could materialise if the RON95 subsidy retargeting proceeds as planned, although actual savings will depend on oil prices, which the budget forecasts will average between USD 75-USD 80 per barrel in 2025 (2024: USD 80-USD 85 per barrel). Meanwhile, emoluments and pensions are set to rise to RM146.5 bil (7.0% of GDP) in 2025 following the civil servants pay raise.
+
+================================================================================
+
+CHUNK 3
+----------------------------------------
+Characters: 565
+Words: 88
+Type: CompositeElement
+
+**Rising debt service charges a concern** One area of concern is rising debt service charges which has grown by RM3.9 bil to RM54.7 bil, with the debt service-to-revenue ratio rising for the fourth consecutive year to 16.1% (2024e: 15.8%). As of end-June 2024, total outstanding government debt stood at RM1.2 trillion, or 63.1% of GDP (2023: 64.3%). Our estimates show that the ratio may remain elevated through 2025 (end-2024: circa 64.6%; 2025: circa 64.2%). It is therefore imperative that the government remains disciplined in its fiscal consolidation efforts.
+
+================================================================================
+
+CHUNK 4
+----------------------------------------
+Characters: 908
+Words: 152
+Type: CompositeElement
+
+The allocation for development expenditure remains stagnant at RM86.0 bil, translating to a lower 4.1% of GDP (2024e: 4.4%) but still above the average of 3.5% from prior years. This is a necessary compromise given the size of the operating expenditure budget. A silver lining is the focus on uplifting social services such as education, health, and housing, underscoring the government’s commitment to investing in future generations and public health.
+
+**Expanding the tax base but revenue still oil and gas dependent** Government revenue is estimated to grow by RM17.7 bil to RM339.7 bil in 2025, though as a percentage of GDP it will slip to 16.3% of GDP (2024e: 16.5%). This decline is attributed to a drop in petroleum direct tax revenues (2025f: 1.0% of GDP; 2024e: 1.1% of GDP) due to lower oil prices and a decrease in non-tax revenue (2025f: 3.4% of GDP; 2024e: 3.7% of GDP) from investment income.
+
+================================================================================
+
+CHUNK 5
+----------------------------------------
+Characters: 972
+Words: 151
+Type: CompositeElement
+
+While tax revenue as a percentage of GDP remains unchanged at 12.4% despite the broadening of the sales and services tax (SST) this year, the government’s tax revenue projection of RM259.0 bil excludes newly announced tax measures. These include dividend taxes, the widening of SST to more categories, hiking sugar taxes, and e-invoicing. These measures are anticipated to bolster revenue collection but not by a significant margin when compared to a broad-based consumption tax.
+
+**RON95 petrol subsidy targets T15, mitigates impact for 85% of rakyat** Another much-anticipated initiative in Budget 2025 is the retargeting of RON95 fuel subsidies, which could result in annual savings of RM8.0 bil (around 2.4% of total revenue). The government has dialled back the timing of the rollout to mid-2025 and targets to exempt 85% of the rakyat. However, details of the implementation mechanism, which is key to determining the inflationary impact, remain scant at this stage.
+
+================================================================================
+
+CHUNK 6
+----------------------------------------
+Characters: 907
+Words: 135
+Type: CompositeElement
+
+The government’s inflation rate projection of 2.0%-3.5% next year (2024e: 1.5%-2.5%) is reasonable but will depend heavily on global oil prices. If petrol prices are freely floated at market rates, RAM estimates that every USD 5 movement in Brent crude price could alter headline inflation by approximately 0.3 percentage points.
+
+**Focus on raising minimum income level** Amid potential price pressures stemming from new tax measures and partial removal of fuel subsidies, the increase in the minimum wage to RM1,700 seems somewhat timely. The minimum wage hike, coupled with the various cash handouts such as the RM13.0 bil from Sumbangan Tunai Rahmah and Sumbangan Asas Rahmah, should alleviate price pressures, fuel private consumption and improve living standards for low-income households.
+
+Widespread adoption of the progressive wage policy should also enhance the welfare of the Malaysian workforce.
+
+================================================================================
+
+CHUNK 7
+----------------------------------------
+Characters: 919
+Words: 126
+Type: CompositeElement
+
+**Focus on high technology will drive nation’s transformation** To realise Malaysia’s ambition of becoming a high technology nation by 2030, various initiatives have been announced. These include the establishment of the National Artificial Intelligence Office to foster artificial intelligence adoption, encouraging investments in high-technology sectors including data centres, and funding skill-building programs through the Skills Development Fund Corporation.
+
+These measures aim to equip Malaysians and the economy to thrive in a rapidly evolving technological landscape.
+
+We believe the government is on track to achieve its 4.5% to 5.5% GDP growth projection in 2025, aligning with our expectations. All said, the budget’s focus on fiscal consolidation, while ensuring social equality and pushing technological advancement and investments will help position Malaysia for a more resilient and sustainable future.
+
+================================================================================
+
+CHUNK 8
+----------------------------------------
+Characters: 511
+Words: 74
+Type: CompositeElement
+
+**About RAM Rating Services Berhad** Established in 1990, RAM Ratings is a leading credit rating agency registered under the Securities Commission’s Guidelines on Credit Rating Agencies. In addition to the provision of credit ratings for corporate bonds and sukuk and their issuers, RAM Ratings also provides research and publications on Islamic finance, fixed income and macro-economic and industry analysis as well as data analytics relating to credit risk, counterparty assessments and other related domains.
+
+================================================================================
+
+CHUNK 9
+----------------------------------------
+Characters: 926
+Words: 139
+Type: CompositeElement
+
+**Disclaimer** ALL INFORMATION IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND. Although every reasonable care has been taken to ensure the accuracy, completeness and objectivity of the information contained in this Media Release, RAM Ratings makes no representation or warranty, whether express or implied, as to its accuracy, completeness and objectivity and accept no responsibility or liability relating to any losses or damages howsoever suffered by any person arising from any reliance on the views expressed or information in this Media Release. RAM Ratings assumes no obligation to update any information or statement contained herein, save for any information required to be disclosed by law. Published by RAM Rating Services Berhad — © Copyright 2024 by RAM Rating Services Berhad — All rights reserved. This material may not be published, reproduced, broadcast, rewritten or redistributed without prior permission.
+
+================================================================================
+
