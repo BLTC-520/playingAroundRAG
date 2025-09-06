@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+unstructured[all-docs]
+langchain
+chromadb 
+langchain_community
+langchain_openai
+unstructured-client
