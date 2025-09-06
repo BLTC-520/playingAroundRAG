@@ -110,7 +110,7 @@ python setupLangchain.py
 
 ### 4. RAG System Setup (`setupRAG.py`)
 
-Creates the complete RAG system with vector store and Q&A chain:
+Creates the complete RAG system with vector store (one-time setup):
 
 ```bash
 python setupRAG.py
@@ -119,9 +119,22 @@ python setupRAG.py
 **Features:**
 - ChromaDB vector store with persistence
 - OpenAI embeddings (text-embedding-3-small)
-- GPT-3.5-turbo for question answering
+- GPT-3.5-turbo configuration
+- Vector database creation and storage
+
+### 5. Interactive Querying (`query.py`)
+
+Fast querying interface that loads the existing RAG system:
+
+```bash
+python query.py
+```
+
+**Features:**
+- Loads existing ChromaDB (no rebuilding)
 - Interactive Q&A interface
 - Source document attribution
+- Much faster startup time
 
 ## System Components
 

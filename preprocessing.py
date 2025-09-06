@@ -3,9 +3,29 @@ import os
 import json
 import unstructured_client
 from unstructured_client.models import shared, errors
+from pathlib import Path
+
+# Load .env file if it exists
+def load_env_file():
+    env_file = Path(__file__).parent / '.env'
+    if env_file.exists():
+        with open(env_file, 'r') as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#') and '=' in line:
+                    key, value = line.split('=', 1)
+                    os.environ[key.strip()] = value.strip().strip('"').strip("'")
+
+# Load environment variables
+load_env_file()
+
+# Initialize client with API key from environment
+api_key = os.getenv("UNSTRUCTURED_API_KEY")
+if not api_key:
+    raise ValueError("UNSTRUCTURED_API_KEY environment variable not set. Please add it to your .env file.")
 
 client = unstructured_client.UnstructuredClient(
-    api_key_auth="aOFAWogpEK4rnFiV6jU58bTiFwHVe7"
+    api_key_auth=api_key
 )
 
 async def partition_file_via_api(filename):

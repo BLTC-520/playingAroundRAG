@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 """
-Setup complete RAG system with OpenAI API.
-Creates vector store, retriever, and QA chain using ChromaDB and OpenAI models.
+Query interface for the RAG system.
+Loads existing ChromaDB and provides interactive Q&A without rebuilding the system.
 """
 
 import os
 from pathlib import Path
-from setupLangchain import load_chunked_files
 
 # Load .env file if it exists
 def load_env_file():
@@ -21,63 +20,54 @@ def load_env_file():
 
 # Load environment variables
 load_env_file()
+
 from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
-from langchain.vectorstores import utils as chromautils
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 
 
-def setup_rag_system():
-    """Setup complete RAG system with OpenAI models."""
+def load_existing_rag_system():
+    """Load existing RAG system from persisted ChromaDB."""
     
     # Check for OpenAI API key
     if not os.getenv("OPENAI_API_KEY"):
-        print("Warning: OPENAI_API_KEY environment variable not set")
-        print("Please set it with: export OPENAI_API_KEY='your-api-key'")
+        print("Error: OPENAI_API_KEY environment variable not set")
+        print("Please add it to your .env file")
         return None
     
-    print("Loading chunked documents...")
-    # Load LangChain documents from chunked files
-    documents = load_chunked_files()
-    
-    if not documents:
-        print("No documents found. Please run chunking.py first.")
+    # Check if ChromaDB exists
+    chroma_path = Path("./chroma_db")
+    if not chroma_path.exists():
+        print("Error: ChromaDB not found. Please run setupRAG.py first to create the vector database.")
         return None
-        
-    print(f"Loaded {len(documents)} documents")
     
-    # Filter complex metadata for ChromaDB compatibility
-    print("Filtering metadata for ChromaDB...")
-    docs = chromautils.filter_complex_metadata(documents)
+    print("Loading existing ChromaDB vector store...")
     
-    # Setup embeddings (OpenAI)
-    print("Setting up OpenAI embeddings...")
+    # Setup embeddings (must match the ones used during creation)
     embeddings = OpenAIEmbeddings(
-        model="text-embedding-3-small"  # More cost-effective than ada-002
+        model="text-embedding-3-small"
     )
     
-    # Create vector store
-    print("Creating ChromaDB vector store...")
-    vectorstore = Chroma.from_documents(
-        documents=docs, 
-        embedding=embeddings,
-        persist_directory="./chroma_db"  # Persist the database
+    # Load existing vector store
+    vectorstore = Chroma(
+        persist_directory="./chroma_db",
+        embedding_function=embeddings
     )
     
     # Create retriever
     print("Setting up retriever...")
     retriever = vectorstore.as_retriever(
         search_type="similarity", 
-        search_kwargs={"k": 3}  # Retrieve top 3 most similar chunks
+        search_kwargs={"k": 3}
     )
     
     # Setup LLM (OpenAI GPT)
     print("Setting up OpenAI LLM...")
     llm = ChatOpenAI(
-        model="gpt-3.5-turbo",  # Cost-effective option
-        temperature=0.2,        # Low temperature for factual responses
-        max_tokens=1000          # Reasonable response length
+        model="gpt-3.5-turbo",
+        temperature=0.2,
+        max_tokens=1000
     )
     
     # Create prompt template
@@ -103,10 +93,10 @@ Answer:"""
         chain_type="stuff",
         retriever=retriever,
         chain_type_kwargs={"prompt": prompt},
-        return_source_documents=True  # Include source documents in response
+        return_source_documents=True
     )
     
-    print("RAG system setup complete!")
+    print("RAG system loaded successfully!")
     return qa_chain
 
 
@@ -137,27 +127,35 @@ def ask_question(qa_chain, question):
 
 
 def main():
-    """Main function to setup RAG system (one-time setup)."""
-    print("Setting up RAG system with OpenAI...")
+    """Main function for interactive querying."""
+    print("Loading RAG system...")
     
-    # Setup RAG system
-    qa_chain = setup_rag_system()
+    # Load existing RAG system
+    qa_chain = load_existing_rag_system()
     
     if not qa_chain:
+        print("\nSetup Instructions:")
+        print("1. Run 'python setupRAG.py' first to create the vector database")
+        print("2. Ensure your .env file contains OPENAI_API_KEY")
         return
     
+    # Interactive Q&A loop
     print("\n" + "="*60)
-    print("RAG System Setup Complete!")
-    print("Vector database saved to ./chroma_db")
-    print("\nNext steps:")
-    print("- Run 'python query.py' to start asking questions")
-    print("- The system will load much faster next time!")
+    print("RAG System Ready! Ask questions about your documents.")
+    print("Type 'quit' to exit.")
     print("="*60)
-
-
-def get_rag_chain():
-    """Utility function to get RAG chain for import by other modules."""
-    return setup_rag_system()
+    
+    while True:
+        question = input("\nYour question: ").strip()
+        
+        if question.lower() in ['quit', 'exit', 'q']:
+            print("Goodbye!")
+            break
+            
+        if not question:
+            continue
+            
+        ask_question(qa_chain, question)
 
 
 if __name__ == "__main__":
